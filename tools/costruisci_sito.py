@@ -59,13 +59,16 @@ SOTTOTITOLO = "Parrocchia di Promano"
 #
 # Finché MODULO_URL resta vuoto, il pulsante spiega che il modulo non c'è
 # ancora invece di aprire una pagina rotta.
-MODULO_URL = ""
+MODULO_URL = "https://docs.google.com/forms/d/e/1FAIpQLScA5K-RQ-ZhCha8L_Ms5NO4xJgw3is_WX4x2ExHq1kxN4yZmg/viewform"
 MODULO_CAMPI = {
-    "pagina":    "entry.000000001",
-    "sezione":   "entry.000000002",
-    "indirizzo": "entry.000000003",
-    "frase":     "entry.000000004",
+    "pagina":    "entry.902808640",
+    "sezione":   "entry.1349780673",
+    "indirizzo": "entry.783901204",
+    "frase":     "entry.9277012",
 }
+# Le altre due domande del modulo — «Chi sei» (entry.1782160945) e
+# «Il tuo commento» (entry.2054199112) — restano vuote apposta: le compila
+# chi segnala.
 
 # Alcuni titoli funzionano dentro il documento ma non come voce di menu:
 # «Il catechismo a Promano» ripeterebbe il nome del sito. Qui si correggono.
