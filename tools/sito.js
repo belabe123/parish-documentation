@@ -4,7 +4,25 @@
 
 (function () {
   var HL1 = '@@HL@@', HL2 = '@@LH@@';
-  var indice = null, curSec = '', selText = '';
+  var indice = null, curSec = '';
+
+  /* La frase selezionata resta in memoria anche dopo che il browser ha
+     chiuso la selezione: sul telefono il menu di sistema (Copia / Condividi)
+     copre la bollina, quindi si segnala con il pulsante flottante e la frase
+     deve essere ancora lì. Vale due minuti, e si consuma quando si usa. */
+  var frasePronta = null;   // {testo, sezione, quando}
+  var VALIDITA = 120000;
+
+  function fraseInCanna() {
+    if (!frasePronta) return null;
+    if (Date.now() - frasePronta.quando > VALIDITA) { frasePronta = null; return null; }
+    return frasePronta;
+  }
+  function ricorda(testo) {
+    frasePronta = { testo: testo, sezione: curSec, quando: Date.now() };
+    aggiornaEtichettaFab();
+  }
+  function dimentica() { frasePronta = null; }
 
   function el(id) { return document.getElementById(id); }
   function esc(s) {
@@ -85,25 +103,55 @@
       else break;
     }
     curSec = trovata;
-    el('fab_s').textContent = trovata || 'in questa pagina';
+    aggiornaEtichettaFab();
     el('fab').classList.toggle('on', window.scrollY > 220);
+  }
+
+  /* Il pulsante dice cosa manderà: se c'è una frase selezionata lo dichiara,
+     altrimenti mostra la sezione che si sta leggendo. */
+  function aggiornaEtichettaFab() {
+    var pronta = fraseInCanna();
+    el('fab').classList.toggle('con-frase', !!pronta);
+    el('fab_s').textContent = pronta ? 'con la frase selezionata'
+                                     : (curSec || 'in questa pagina');
   }
 
   /* ---------------- selezione del testo ---------------- */
 
-  function hideBub() { el('bub').classList.remove('on'); selText = ''; }
+  function hideBub() { el('bub').classList.remove('on'); }
+
+  function leggiSelezione() {
+    var sel = window.getSelection();
+    if (!sel || sel.isCollapsed) return null;
+    var t = sel.toString().trim();
+    if (t.length < 4 || !el('body').contains(sel.anchorNode)) return null;
+    return t.length > 400 ? t.slice(0, 400) + '...' : t;
+  }
+
+  /* Ogni volta che c'è una selezione valida la si ricorda. Quando la
+     selezione sparisce NON si dimentica: è proprio il caso del telefono. */
+  function onSelectionChange() {
+    var t = leggiSelezione();
+    if (t) ricorda(t);
+  }
 
   function onSelect() {
+    var t = leggiSelezione();
+    if (!t) { hideBub(); return; }
+    ricorda(t);
+
     var sel = window.getSelection();
-    if (!sel || sel.isCollapsed) { hideBub(); return; }
-    var t = sel.toString().trim();
-    if (t.length < 4 || !el('body').contains(sel.anchorNode)) { hideBub(); return; }
-    selText = t.length > 400 ? t.slice(0, 400) + '...' : t;
     var r = sel.getRangeAt(0).getBoundingClientRect();
     var b = el('bub');
     b.classList.add('on');
+
     var x = r.left + r.width / 2 + window.scrollX;
-    var y = r.top + window.scrollY - b.offsetHeight - 10;
+    // su schermo stretto la bollina va SOTTO la selezione: sopra ci sta il
+    // menu di sistema del telefono, e si coprirebbero a vicenda
+    var sotto = window.innerWidth < 900;
+    var y = sotto ? r.bottom + window.scrollY + 12
+                  : r.top + window.scrollY - b.offsetHeight - 10;
+    b.classList.toggle('sotto', sotto);
     b.style.left = Math.max(70, Math.min(x, window.innerWidth - 70)) - b.offsetWidth / 2 + 'px';
     b.style.top = Math.max(window.scrollY + 6, y) + 'px';
   }
@@ -114,7 +162,20 @@
      frase già compilati. Chi segnala scrive soltanto il commento e invia una
      volta sola. Se il modulo non è ancora collegato, si spiega cosa manca. */
 
-  function openSeg(sez, frase) {
+  /* sez        — sezione dichiarata da chi chiama ('' = decidi tu)
+     frase      — frase esplicita ('' = usa quella selezionata di recente)
+     soloSuaSez — vero per i pulsanti accanto ai titoli: prendono la frase
+                  solo se è stata selezionata in QUELLA sezione */
+  function openSeg(sez, frase, soloSuaSez) {
+    var pronta = fraseInCanna();
+    if (!frase && pronta && (!soloSuaSez || pronta.sezione === sez)) {
+      frase = pronta.testo;
+      sez = pronta.sezione || sez;   // la frase sa da dove viene
+    }
+    dimentica();
+    hideBub();
+    aggiornaEtichettaFab();
+
     var dati = {
       pagina: PAGINA,
       sezione: sez || curSec || '(tutta la pagina)',
@@ -156,7 +217,7 @@
 
   document.addEventListener('DOMContentLoaded', function () {
     document.querySelectorAll('.seg').forEach(function (b) {
-      b.onclick = function () { openSeg(b.dataset.s, ''); };
+      b.onclick = function () { openSeg(b.dataset.s, '', true); };
     });
 
     el('q').addEventListener('input', function (e) { cerca(e.target.value); });
@@ -166,19 +227,20 @@
       if (e.key === 'Escape') { closeSeg(); hideBub(); }
     });
 
-    el('fab').onclick = function () { openSeg(curSec, ''); };
+    el('fab').onclick = function () { openSeg('', ''); };
     el('bub').onmousedown = function (e) { e.preventDefault(); };
     el('bub').onclick = function () {
-      var f = selText;
-      hideBub();
+      var pronta = fraseInCanna();
       if (window.getSelection) window.getSelection().removeAllRanges();
-      openSeg(curSec, f);
+      openSeg(pronta ? pronta.sezione : curSec, pronta ? pronta.testo : '');
     };
 
+    // scorrendo si nasconde la bollina, ma la frase resta in memoria
     window.addEventListener('scroll', function () { trackSection(); hideBub(); }, { passive: true });
     window.addEventListener('resize', trackSection);
     document.addEventListener('mouseup', function () { setTimeout(onSelect, 10); });
     document.addEventListener('touchend', function () { setTimeout(onSelect, 10); });
+    document.addEventListener('selectionchange', function () { setTimeout(onSelectionChange, 10); });
 
     // porta in vista la voce di menu della pagina corrente: con quasi cento
     // voci, altrimenti la barra laterale mostra sempre l'inizio dell'elenco

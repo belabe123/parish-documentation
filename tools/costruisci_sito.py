@@ -302,7 +302,7 @@ def scrivi_pagina(pagina, pagine, css, js):
       <div id="body">{corpo}</div>
       <div id="foot">
         <p>Hai notato qualcosa che non torna in questa pagina?</p>
-        <button onclick="openSeg('')">Segnala qualcosa</button>
+        <button onclick="openSeg('','')">Segnala qualcosa</button>
       </div>
     </article>
     <div id="res"></div>

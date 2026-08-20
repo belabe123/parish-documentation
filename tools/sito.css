@@ -211,3 +211,12 @@ h2:hover .anch{opacity:1}
 
 /* tabelle scritte senza intestazione: markdown la crea comunque, vuota */
 table thead tr.vuota{display:none}
+
+/* la bollina sotto la selezione (schermi stretti): la punta va in alto */
+#bub.sotto:after{
+  top:-5px; bottom:auto;
+  border:5px solid transparent; border-bottom-color:var(--ink); border-top:0;
+}
+/* quando il pulsante flottante porta con sé una frase selezionata */
+#fab.con-frase{border-color:var(--acc); background:var(--acc-soft)}
+#fab.con-frase .t2{color:var(--acc); font-weight:600}
