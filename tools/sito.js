@@ -17,7 +17,7 @@
 
   function caricaIndice() {
     if (indice) return Promise.resolve(indice);
-    return fetch('/ricerca.json')
+    return fetch((typeof BASE === 'string' ? BASE : '') + '/ricerca.json')
       .then(function (r) { return r.json(); })
       .then(function (j) { indice = j; return j; });
   }
