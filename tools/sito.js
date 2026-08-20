@@ -4,7 +4,7 @@
 
 (function () {
   var HL1 = '@@HL@@', HL2 = '@@LH@@';
-  var MODHTML = null, indice = null, curSec = '', selText = '';
+  var indice = null, curSec = '', selText = '';
 
   function el(id) { return document.getElementById(id); }
   function esc(s) {
@@ -110,65 +110,51 @@
 
   /* ---------------- segnalazione ---------------- */
 
+  /* Un clic solo: si apre il modulo Google con pagina, sezione, indirizzo e
+     frase già compilati. Chi segnala scrive soltanto il commento e invia una
+     volta sola. Se il modulo non è ancora collegato, si spiega cosa manca. */
+
   function openSeg(sez, frase) {
-    el('mod').innerHTML = MODHTML;
-    el('m_pag').textContent = PAGINA;
-    el('m_sez').textContent = sez || curSec || '(tutta la pagina)';
-    if (frase) {
-      el('fr_wrap').innerHTML =
-        '<label>La frase che hai selezionato</label>' +
-        '<div class="quoted" id="m_frase_v">' + esc(frase) + '</div>';
-    }
-    el('ov').classList.add('on');
-    setTimeout(function () { el('m_txt').focus(); }, 60);
-  }
-  function closeSeg() { el('ov').classList.remove('on'); }
-
-  function valoreFrase() {
-    var v = el('m_frase_v');
-    if (v) return v.textContent;
-    var i = el('m_frase');
-    return i ? i.value : '';
-  }
-
-  function sendSeg() {
     var dati = {
-      pagina: el('m_pag').textContent,
-      sezione: el('m_sez').textContent,
-      frase: valoreFrase(),
-      chi: el('m_chi').value,
-      nota: el('m_txt').value
+      pagina: PAGINA,
+      sezione: sez || curSec || '(tutta la pagina)',
+      indirizzo: location.origin + location.pathname,
+      frase: frase || ''
     };
 
-    if (!MODULO.url) {
-      el('mod').innerHTML =
-        '<h3>Il modulo non è ancora collegato</h3>' +
-        '<p class="lead">Il pulsante funziona, ma manca l\'indirizzo del modulo Google dove finiscono le segnalazioni. ' +
-        'Si configura in <code>tools/costruisci_sito.py</code>.</p>' +
-        '<div class="note">Nel frattempo puoi scrivere la segnalazione nel gruppo dei catechisti, ' +
-        'indicando la pagina <b>' + esc(dati.pagina) + '</b> e la sezione <b>' + esc(dati.sezione) + '</b>.</div>' +
-        '<div class="acts"><button class="pri" id="chiudi">Ho capito</button></div>';
-      el('chiudi').onclick = closeSeg;
-      return;
-    }
+    if (!MODULO.url) { spiegaModuloMancante(dati); return; }
 
     var u = MODULO.url + (MODULO.url.indexOf('?') > -1 ? '&' : '?') + 'usp=pp_url';
     Object.keys(MODULO.campi).forEach(function (k) {
-      u += '&' + MODULO.campi[k] + '=' + encodeURIComponent(dati[k] || '');
+      if (MODULO.campi[k]) u += '&' + MODULO.campi[k] + '=' + encodeURIComponent(dati[k] || '');
     });
     window.open(u, '_blank', 'noopener');
-    closeSeg();
   }
+
+  function spiegaModuloMancante(dati) {
+    el('mod').innerHTML =
+      '<h3>Il modulo non è ancora collegato</h3>' +
+      '<p class="lead">Il pulsante funziona, ma manca l\'indirizzo del modulo Google dove finiscono ' +
+      'le segnalazioni. Si configura in <code>tools/costruisci_sito.py</code>.</p>' +
+      '<div class="fld"><label>Pagina</label><div class="ro">' + esc(dati.pagina) + '</div></div>' +
+      '<div class="fld"><label>Sezione</label><div class="ro">' + esc(dati.sezione) + '</div></div>' +
+      (dati.frase ? '<div class="fld"><label>La frase selezionata</label>' +
+                    '<div class="quoted">' + esc(dati.frase) + '</div></div>' : '') +
+      '<div class="note">Nel frattempo puoi scrivere la segnalazione nel gruppo dei catechisti, ' +
+      'citando la pagina e la sezione qui sopra.</div>' +
+      '<div class="acts"><button class="pri" id="chiudi">Ho capito</button></div>';
+    el('chiudi').onclick = closeSeg;
+    el('ov').classList.add('on');
+  }
+
+  function closeSeg() { el('ov').classList.remove('on'); }
 
   /* ---------------- avvio ---------------- */
 
   window.openSeg = openSeg;
   window.closeSeg = closeSeg;
-  window.sendSeg = sendSeg;
 
   document.addEventListener('DOMContentLoaded', function () {
-    MODHTML = el('mod').innerHTML;
-
     document.querySelectorAll('.seg').forEach(function (b) {
       b.onclick = function () { openSeg(b.dataset.s, ''); };
     });

@@ -33,21 +33,38 @@ import urllib.parse
 TITOLO_SITO = "Catechismo a Promano"
 SOTTOTITOLO = "Parrocchia di Promano"
 
-# Indirizzo del modulo Google per le segnalazioni.
-# Finché resta vuoto, il pulsante «Segnala» spiega che il modulo non c'è
-# ancora invece di aprire una pagina rotta.
+# Il modulo Google dove finiscono le segnalazioni.
 #
-# Per collegarlo: crea un modulo Google con cinque domande a risposta breve
-# (pagina, sezione, frase, nome, segnalazione), scegli «Ottieni link
-# precompilato», compila con dei valori finti e copia l'indirizzo. Poi
-# incolla qui la parte prima di «&entry.» e sostituisci i cinque numeri.
+# Il pulsante «Segnala» apre il modulo con quattro campi GIÀ COMPILATI, così
+# chi segnala scrive solo il commento e invia una volta sola.
+#
+# Come collegarlo:
+#  1. Crea un modulo Google con sei domande, in quest'ordine:
+#       1) Pagina                  — risposta breve
+#       2) Sezione                 — risposta breve
+#       3) Indirizzo della pagina  — risposta breve
+#       4) La frase segnalata      — paragrafo
+#       5) Che cosa non torna      — paragrafo   (la scrive chi segnala)
+#       6) Chi sei                 — risposta breve (la scrive chi segnala)
+#     Nelle impostazioni togli «Raccogli indirizzi email»: non deve servire
+#     un account Google per rispondere.
+#  2. Menu con i tre puntini -> «Ottieni link precompilato». Scrivi nei primi
+#     quattro campi dei valori finti (per esempio «AAA», «BBB»...) e premi
+#     «Ottieni link».
+#  3. Il link è fatto così:
+#       https://docs.google.com/forms/d/e/XXXX/viewform?usp=pp_url
+#       &entry.111=AAA&entry.222=BBB&entry.333=CCC&entry.444=DDD
+#     Incolla la parte prima di «&entry.» in MODULO_URL, e i quattro numeri
+#     qui sotto, nell'ordine in cui hai messo le domande.
+#
+# Finché MODULO_URL resta vuoto, il pulsante spiega che il modulo non c'è
+# ancora invece di aprire una pagina rotta.
 MODULO_URL = ""
 MODULO_CAMPI = {
-    "pagina": "entry.000000001",
-    "sezione": "entry.000000002",
-    "frase": "entry.000000003",
-    "chi": "entry.000000004",
-    "nota": "entry.000000005",
+    "pagina":    "entry.000000001",
+    "sezione":   "entry.000000002",
+    "indirizzo": "entry.000000003",
+    "frase":     "entry.000000004",
 }
 
 # Alcuni titoli funzionano dentro il documento ma non come voce di menu:
@@ -358,14 +375,7 @@ Ci sono due modi, e nessuno dei due chiede di registrarsi:
             "md": md, "allegato": False}
 
 
-MODALE = """<h3>Segnala qualcosa</h3>
-<p class="lead">Non serve registrarsi. Scrivi anche solo mezza riga.</p>
-<div class="fld"><label>Pagina</label><div class="ro" id="m_pag"></div></div>
-<div class="fld"><label>Sezione</label><div class="ro" id="m_sez"></div></div>
-<div class="fld" id="fr_wrap"><label>La frase, se ce n'è una precisa</label><input type="text" id="m_frase" placeholder="Oppure seleziona il testo nella pagina"></div>
-<div class="fld"><label>Che cosa non torna</label><textarea id="m_txt" rows="4" placeholder="Es. «Il gioco non si è mai fatto così: le squadre erano tre, non due.»"></textarea></div>
-<div class="fld"><label>Chi sei</label><input type="text" id="m_chi" placeholder="Nome"></div>
-<div class="acts"><button onclick="closeSeg()">Annulla</button><button class="pri" onclick="sendSeg()">Invia</button></div>"""
+MODALE = ""   # la finestra la costruisce sito.js, solo quando serve
 
 
 # --------------------------------------------------------------------------
