@@ -288,15 +288,22 @@ def scrivi_pagina(pagina, pagine, css, js):
 <meta name="description" content="{sito} — {gruppo}">
 <style>{css}</style>
 </head><body>
-<button id="burger" aria-label="Menu">&#9776;</button>
+<a id="salta" href="#doc">Salta al contenuto</a>
+<button id="burger" aria-label="Apri il menu" aria-controls="side" aria-expanded="false">&#9776;</button>
 <div id="wrap">
   <aside id="side">
     <div id="brand"><a href="{home}"><b>{sito}</b><span>{sotto}</span></a></div>
+    <label for="q" class="sr">Cerca nel testo del sito</label>
     <input id="q" type="search" placeholder="Cerca nel testo..." autocomplete="off">
-    <nav id="nav" class="nav">{nav}</nav>
+    <div id="testo-cmd" role="group" aria-label="Dimensione del testo">
+      <span class="et" id="t-stato">Testo normale</span>
+      <button id="t-meno" type="button" aria-label="Riduci la dimensione del testo">A&minus;</button>
+      <button id="t-piu" type="button" class="grande" aria-label="Aumenta la dimensione del testo">A+</button>
+    </div>
+    <nav id="nav" class="nav" aria-label="Sezioni del sito">{nav}</nav>
   </aside>
   <main id="main"><div class="colonna">
-    <article id="doc">
+    <article id="doc" tabindex="-1">
       <div id="crumb">{gruppo}</div>
       <h1 id="h1">{titolo}</h1>
       <div id="body">{corpo}</div>

@@ -3,6 +3,13 @@
    Nessuna libreria esterna, nessun cookie, niente che esca dal browser. */
 
 (function () {
+  // prima di tutto: la scala del testo, per evitare che la pagina
+  // compaia con una dimensione e poi cambi sotto gli occhi
+  try {
+    var _v = parseInt(localStorage.getItem('scalaTesto'), 10);
+    if (_v >= 0 && _v < 4) document.documentElement.style.setProperty('--scala', [0.9,1,1.15,1.35][_v]);
+  } catch (e) {}
+
   var HL1 = '@@HL@@', HL2 = '@@LH@@';
   var indice = null, curSec = '';
 
@@ -18,8 +25,26 @@
     if (Date.now() - frasePronta.quando > VALIDITA) { frasePronta = null; return null; }
     return frasePronta;
   }
+  /* La sezione di una frase è quella in cui la frase sta davvero, non quella
+     che si sta guardando: si può selezionare un passaggio e poi scorrere.
+     Si cerca l'ultimo titolo di secondo livello che precede la selezione. */
+  function sezioneDellaSelezione() {
+    var sel = window.getSelection();
+    if (!sel || sel.rangeCount === 0) return curSec;
+    var nodo = sel.getRangeAt(0).startContainer;
+    if (nodo.nodeType === 3) nodo = nodo.parentNode;
+    var hs = document.querySelectorAll('#body h2'), trovata = '';
+    for (var i = 0; i < hs.length; i++) {
+      // il titolo precede il nodo selezionato?
+      var pos = hs[i].compareDocumentPosition(nodo);
+      if (pos & Node.DOCUMENT_POSITION_FOLLOWING) trovata = hs[i].dataset.raw;
+      else break;
+    }
+    return trovata || curSec;
+  }
+
   function ricorda(testo) {
-    frasePronta = { testo: testo, sezione: curSec, quando: Date.now() };
+    frasePronta = { testo: testo, sezione: sezioneDellaSelezione(), quando: Date.now() };
     aggiornaEtichettaFab();
   }
   function dimentica() { frasePronta = null; }
@@ -29,6 +54,34 @@
     return String(s).replace(/[&<>"]/g, function (c) {
       return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c];
     });
+  }
+
+
+  /* ---------------- dimensione del testo ---------------- */
+
+  /* Quattro passi. Il valore moltiplica la dimensione scelta nel browser,
+     quindi chi ha già impostato un testo grande nel telefono parte da lì e
+     lo ingrandisce ancora. La scelta resta memorizzata nel browser di chi
+     legge: cambia pagina e la ritrova. */
+  var SCALE = [0.9, 1, 1.15, 1.35];
+  var NOMI  = ['piccolo', 'normale', 'grande', 'molto grande'];
+  var iScala = 1;
+
+  function leggiScala() {
+    try {
+      var v = parseInt(localStorage.getItem('scalaTesto'), 10);
+      if (v >= 0 && v < SCALE.length) return v;
+    } catch (e) { /* navigazione privata: pazienza */ }
+    return 1;
+  }
+  function applicaScala(i, salva) {
+    iScala = Math.max(0, Math.min(SCALE.length - 1, i));
+    document.documentElement.style.setProperty('--scala', SCALE[iScala]);
+    var meno = el('t-meno'), piu = el('t-piu'), st = el('t-stato');
+    if (meno) meno.disabled = (iScala === 0);
+    if (piu)  piu.disabled  = (iScala === SCALE.length - 1);
+    if (st)   st.textContent = 'Testo ' + NOMI[iScala];
+    if (salva) { try { localStorage.setItem('scalaTesto', iScala); } catch (e) {} }
   }
 
   /* ---------------- ricerca ---------------- */
@@ -219,6 +272,10 @@
     document.querySelectorAll('.seg').forEach(function (b) {
       b.onclick = function () { openSeg(b.dataset.s, '', true); };
     });
+
+    applicaScala(leggiScala(), false);
+    el('t-meno').onclick = function () { applicaScala(iScala - 1, true); };
+    el('t-piu').onclick  = function () { applicaScala(iScala + 1, true); };
 
     el('q').addEventListener('input', function (e) { cerca(e.target.value); });
     el('burger').onclick = function () { el('side').classList.toggle('on'); };

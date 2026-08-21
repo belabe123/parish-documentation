@@ -55,7 +55,7 @@ La formulazione è importante e va mantenuta com'è: **invita senza obbligare**.
 
 ### I catechisti giovanissimi
 
-Su questo gruppo lavorano i **ragazzi del primo superiore** — nell'ultima composizione sei — insieme ai catechisti adulti. Non è un ripiego: sono i più bravi a stare per terra con dei bambini di sei anni, e per loro è la continuazione naturale del «servizio ai più piccoli» cominciato in prima media.
+Su questo gruppo lavorano i **ragazzi del primo e del secondo superiore** — nell'ultima composizione sette — insieme ai catechisti adulti. Non è un ripiego: sono i più bravi a stare per terra con dei bambini di sei anni, e per loro è la continuazione naturale del «servizio ai più piccoli» cominciato in prima media.
 
 Nel 2024-2025, essendo l'incontro mensile, la comunicazione alle famiglie elencava **tutti e dieci i catechisti della parrocchia**. Con una cadenza mensile ci si può essere tutti, ed è una delle cose buone di questo formato.
 

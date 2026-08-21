@@ -14,7 +14,7 @@ Il manuale del metodo. Da dove veniamo, cosa crediamo, chi siamo, com'è fatto u
 
 ### [02 — Percorso I e II elementare](<02 - Percorso I-II elementare.md>)
 
-Le storie della Bibbia raccontate come i «nonni di Gesù», gli incontri mensili vissuti insieme ai genitori, e i catechisti del primo superiore.
+Le storie della Bibbia raccontate come i «nonni di Gesù», gli incontri mensili vissuti insieme ai genitori, e i catechisti delle superiori.
 
 ### [03 — Percorso III e IV elementare](<03 - Percorso III-IV elementare.md>)
 
