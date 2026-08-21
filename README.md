@@ -4,6 +4,8 @@ Documentazione del cammino di catechismo della Parrocchia di Promano: come lo fa
 
 Questo repository contiene **solo testo e allegati leggeri**. Foto, video e scansioni restano nella cartella condivisa su Drive.
 
+**Il sito da leggere è [belabe123.github.io/parish-documentation](https://belabe123.github.io/parish-documentation/).** Chi fa catechismo non deve aprire GitHub: apre quel link dal telefono e legge. Questi file sono la sorgente da cui il sito viene costruito.
+
 ---
 
 ## Come è organizzato
@@ -17,6 +19,7 @@ Questo repository contiene **solo testo e allegati leggeri**. Foto, video e scan
 | `Schede/` | Una cartella per incontro, con la scheda e i suoi allegati |
 | `Ritiri/` | I ritiri, che non hanno schede ma documenti propri |
 | `Comuni/` | Canti, preghiere e immagini usati in più incontri |
+| `tools/` | Il programma che costruisce il sito — non contiene contenuti |
 
 ### Le schede
 
@@ -57,6 +60,35 @@ Per tutto il resto vale la regola opposta: **meglio duplicare che rimandare**. S
 
 ---
 
+## Il sito e le segnalazioni
+
+### Come si aggiorna
+
+Non c'è niente da fare a mano. Si modifica un file markdown, si fa `git push`, e dopo circa un minuto il sito è aggiornato. Il programma che lo costruisce è `tools/costruisci_sito.py`; lo lancia GitHub da solo a ogni modifica, seguendo `.github/workflows/sito.yml`. Se qualcosa va storto lo si vede nella scheda **Actions** del repository.
+
+Per provare in locale prima di pubblicare:
+
+```
+pip install markdown
+python tools/costruisci_sito.py
+```
+
+Il sito finisce in `_site/`, che non entra nel repository.
+
+### Come arrivano i commenti dei catechisti
+
+Su ogni pagina c'è un pulsante **Segnala** che segue la lettura, e accanto a ogni titolo di sezione ce n'è uno più piccolo. Chi legge può anche selezionare una frase: il pulsante la porta con sé. Il modulo Google si apre già compilato con la pagina, la sezione, l'indirizzo e la frase — al catechista restano da scrivere solo il nome e il commento.
+
+Le risposte finiscono nel foglio **«Parish documentation (Responses)»** su Drive, nella cartella `Catechismo`. Da lì si leggono, si decide quali recepire, e si correggono i file.
+
+### Accessibilità
+
+Nella colonna di sinistra c'è un comando **A− / A+** con quattro misure di testo, che resta memorizzato nel browser di chi legge e si somma alla dimensione già impostata nel telefono. I contrasti sono stati misurati e rispettano il minimo delle linee guida WCAG AA (4,5:1 per il testo, 3:1 per i bordi dei controlli). C'è un link «Salta al contenuto» per chi naviga da tastiera, e il sito rispetta le preferenze di sistema per il contrasto alto e per le animazioni ridotte.
+
+Chi tocca il CSS tenga presente che questi numeri sono stati verificati sulle pagine costruite, non a occhio: se si cambia un colore, va rimisurato.
+
+---
+
 ## Stato del lavoro
 
 ### Fatto
@@ -74,11 +106,16 @@ Per tutto il resto vale la regola opposta: **meglio duplicare che rimandare**. S
   - [x] Cresima — 5
 - [x] **I ritiri** — Prima Comunione *(guida per chi conduce + quadernino dei ragazzi)*
 - [x] Inventario del materiale su Drive *(documento di lavoro, tenuto su Drive)*
+- [x] **Il sito** — pubblicato su GitHub Pages, si aggiorna da solo a ogni modifica
+- [x] **Il canale di ritorno** — pulsante di segnalazione su ogni pagina e sezione, modulo precompilato, risposte raccolte su Drive
+- [x] **Ripulitura per la pubblicazione** — nomi dei catechisti tolti, inventario fuori dal repository, cronologia riscritta prima di rendere pubblico
+- [x] **Accessibilità** — comando per la dimensione del testo, contrasti verificati, navigazione da tastiera
 
 ### Da fare
 
 In ordine di utilità, non di fatica.
 
+- [ ] **Recepire le segnalazioni dei catechisti** — il messaggio è partito il 21 agosto 2026. Le risposte arrivano nel foglio su Drive; vanno lette, discusse dove serve, e riportate nei file.
 - [ ] **Scrivere i gesti del Padre Nostro** — vedi `Comuni/Preghiere/Padre Nostro con i gesti.md`, che è vuoto apposta. Serve mezz'ora e qualcuno che li faccia mentre si scrive. Un video col telefono vale più di dieci descrizioni.
 - [ ] **Raccolta e riordino degli allegati** — molte schede rimandano a documenti che su Drive esistono ma qui non ci sono ancora.
 - [ ] **Esportazione delle schede in PDF** — è nell'obiettivo iniziale del lavoro: ogni scheda deve poter diventare un documento da stampare o mandare via mail.
@@ -162,8 +199,13 @@ Nel dubbio, la domanda da farsi è semplice: *me la sentirei di leggerlo ad alta
 
 ## Dove vive questo documento
 
-Per ora la versione buona è qui, in markdown, mentre il testo è in scrittura.
+**La versione buona è qui**, nei file markdown di questo repository. Il sito ne è la vetrina: si legge lì, ma non si modifica lì.
 
-Quando il contenuto sarà stabile, la casa diventerà la cartella condivisa su **Drive**: lì i catechisti potranno leggere dal telefono e lasciare commenti, che è ciò che serve davvero. Questo repository resterà come archivio e memoria delle revisioni.
+Su Drive resta il materiale che qui non può stare — le scansioni, le foto, gli elenchi con i nomi dei bambini, l'inventario di lavoro — e resta l'archivio storico da cui tutto questo è stato ricostruito.
 
-Tenere vive entrambe le versioni contemporaneamente è l'unica cosa da evitare: è così che nascono sei copie diverse e nessuno sa più quale sia quella giusta.
+La cosa da evitare è una sola: **riscrivere un contenuto su Drive invece che qui**. È così che nascono sei copie diverse e nessuno sa più quale sia quella giusta. Se una scheda va corretta, si corregge il file, si fa push, e il sito segue.
+
+### Piccole cose in sospeso sull'impianto
+
+- rendere obbligatoria la domanda «Chi sei» nel modulo di segnalazione — oggi si può mandare un commento anonimo e poi non si sa a chi chiedere spiegazioni
+- chiedere a don Simone se le sue preghiere personali, trascritte nella guida del ritiro, possono restare su un sito pubblico
