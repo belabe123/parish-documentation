@@ -65,25 +65,46 @@ L'ordine è vincolato in un punto solo, ed è quello che il percorso già segnal
 
 ## 3. I due percorsi affiancati
 
+**Otto incontri per parte**, più i tempi forti. Le tappe sono sette: due di esse tengono due incontri, la quarta nell'anno B e la settima nell'anno A. **Tutte e sedici le schede esistono** — ogni riga della tabella è cliccabile.
+
 | Tappa | **Anno A — Gesù racconta** | **Anno B — Gesù incontra** |
 |---|---|---|
-| 1 | Mi presento | Mi presento — *variante* |
-| 2 | La storia della salvezza | Dio parla agli uomini — la Bibbia |
-| 3 | La parabola dei talenti *(Mt 25)* | [«Vieni e seguimi»](<../Schede/III-IV Anno B/03 - Vieni e seguimi/03 - Vieni e seguimi.md>) *(Lc 5)* |
-| 4 | La parabola del seminatore *(Mt 13)* | [Zaccheo](<../Schede/III-IV Anno B/04 - Zaccheo/04 - Zaccheo.md>) *(Lc 19)* |
-| 4b | — | [Bartimeo](<../Schede/III-IV Anno B/05 - Bartimeo/05 - Bartimeo.md>) *(Mc 10)* |
-| 5 | La pecora smarrita *(Lc 15,1-7)* | [La tempesta sedata](<../Schede/III-IV Anno B/06 - La tempesta sedata/06 - La tempesta sedata.md>) *(Mc 4)* |
-| 6 | [**Il padre misericordioso**](<../Schede/III-IV/13 - Il padre misericordioso/13 - Il padre misericordioso.md>) *(Lc 15,11-32)* | L'adultera *(Gv 8)* |
-| 7 | Il comandamento dell'amore *(Lc 10,25-28)* | [La lavanda dei piedi](<../Schede/III-IV Anno B/08 - La lavanda dei piedi/08 - La lavanda dei piedi.md>) *(Gv 13)* |
-| 7b | Il buon samaritano *(Lc 10,25-37)* | — |
+| 1 · Ci conosciamo | [Mi presento](<../Schede/III-IV/01 - Mi presento/01 - Mi presento.md>) | [Mi presento](<../Schede/III-IV/01 - Mi presento/01 - Mi presento.md>) — *variante di annata* |
+| 2 · Il quadro grande | [La storia della salvezza](<../Schede/III-IV/02 - La storia della salvezza/02 - La storia della salvezza.md>) | [Dio parla agli uomini](<../Schede/III-IV/03 - Dio parla agli uomini/03 - Dio parla agli uomini.md>) — la Bibbia |
+| 3 · Ti affida qualcosa | [La parabola dei talenti](<../Schede/III-IV/04 - La parabola dei talenti/04 - La parabola dei talenti.md>) *(Mt 25)* | [«Vieni e seguimi»](<../Schede/III-IV Anno B/03 - Vieni e seguimi/03 - Vieni e seguimi.md>) *(Lc 5)* |
+| 4 · Si accorge di te | [La parabola del seminatore](<../Schede/III-IV/05 - La parabola del seminatore/05 - La parabola del seminatore.md>) *(Mt 13)* | [Zaccheo](<../Schede/III-IV Anno B/04 - Zaccheo/04 - Zaccheo.md>) *(Lc 19)*<br>[Bartimeo](<../Schede/III-IV Anno B/05 - Bartimeo/05 - Bartimeo.md>) *(Mc 10)* |
+| 5 · Ci si può fidare | [La pecora smarrita](<../Schede/III-IV/07 - Gesù non ti lascia solo/07 - Gesù non ti lascia solo.md>) *(Lc 15,1-7)* | [La tempesta sedata](<../Schede/III-IV Anno B/06 - La tempesta sedata/06 - La tempesta sedata.md>) *(Mc 4)* |
+| 6 · Non ti giudica | [**Il padre misericordioso**](<../Schede/III-IV/13 - Il padre misericordioso/13 - Il padre misericordioso.md>) *(Lc 15,11-32)* | [L'adultera](<../Schede/III-IV/10 - Gesù non ti giudica/10 - Gesù non ti giudica.md>) *(Gv 8)* |
+| 7 · Amare si fa | [Il comandamento dell'amore](<../Schede/III-IV/08 - Il comandamento dell'amore/08 - Il comandamento dell'amore.md>) *(Lc 10,25-28)*<br>[Il buon samaritano](<../Schede/III-IV/09 - Il buon samaritano/09 - Il buon samaritano.md>) *(Lc 10,25-37)* | [La lavanda dei piedi](<../Schede/III-IV Anno B/08 - La lavanda dei piedi/08 - La lavanda dei piedi.md>) *(Gv 13)* |
 
-Otto incontri per parte, più i tempi forti.
+In grassetto l'unico incontro il cui testo mancava del tutto all'archivio.
 
-> **Le sette schede nuove sono scritte.** I collegamenti nella tabella portano a quelle già pronte, con i vangeli su foglietto e i materiali. Le cinque dell'anno B stanno in [`Schede/III-IV Anno B/`](<../Schede/III-IV Anno B/00 - Indice dell'anno B.md>); il padre misericordioso e [i discepoli di Emmaus](<../Schede/III-IV/14 - I discepoli di Emmaus/14 - I discepoli di Emmaus.md>) stanno in `Schede/III-IV/` con i numeri 13 e 14. Gli incontri della tabella senza collegamento usano schede che esistono già.
->
-> Sono scritte, non provate: nessuna di queste attività è mai stata fatta a Promano.
+> **Le sette schede nuove sono scritte, non provate.** Le cinque dell'anno B stanno in [`Schede/III-IV Anno B/`](<../Schede/III-IV Anno B/00 - Indice dell'anno B.md>); il padre misericordioso e [i discepoli di Emmaus](<../Schede/III-IV/14 - I discepoli di Emmaus/14 - I discepoli di Emmaus.md>) stanno in `Schede/III-IV/` con i numeri 13 e 14. Nessuna di queste attività è mai stata fatta a Promano.
 
-**Sette degli otto incontri dell'anno A sono già scritti.** L'anno A è, in sostanza, il percorso attuale ripulito dagli incontri che passano all'anno B, più il padre misericordioso.
+### Dove va a finire ognuno dei dodici incontri di oggi
+
+La tabella qui sopra non li contiene tutti, e conviene vedere il conto per intero: **nessuno si perde, ma uno cambia mestiere.**
+
+| Oggi | Dove va |
+|---|---|
+| 01 Mi presento | Tappa 1, **in tutt'e due gli anni** — con la variante di annata |
+| 02 La storia della salvezza | Anno A, tappa 2 |
+| 03 Dio parla agli uomini | **Anno B**, tappa 2 |
+| 04 La parabola dei talenti | Anno A, tappa 3 |
+| 05 La parabola del seminatore | Anno A, tappa 4 |
+| 06 Di Gesù ci si può fidare | **Non resta come incontro.** Vedi qui sotto |
+| 07 Gesù non ti lascia solo | Anno A, tappa 5 |
+| 08 Il comandamento dell'amore | Anno A, tappa 7 |
+| 09 Il buon samaritano | Anno A, tappa 7 |
+| 10 Gesù non ti giudica | **Anno B**, tappa 6 |
+| 11 Gesù si ritira per pregare | **Fuori dal tronco**: è l'incontro di Quaresima dell'anno A |
+| 12 Gesù pane della vita | **Fuori dal tronco**: passa alla coda della quarta |
+
+**L'incontro 06 è il solo che cambia natura, e va detto chiaro.** Oggi è un incontro fatto di tre scenette su tre vangeli — la pesca miracolosa, le nozze di Cana, la moltiplicazione dei pani. Nella proposta la pesca miracolosa diventa l'incontro «Vieni e seguimi» dell'anno B, e la tappa «ci si può fidare» viene coperta dalla pecora smarrita in A e dalla tempesta sedata in B.
+
+Restano quindi **senza collocazione le nozze di Cana e la moltiplicazione dei pani**. Non è una perdita obbligata: la moltiplicazione dei pani è un candidato naturale per aprire la coda sacramentale della quarta — il ragazzo che dà i suoi cinque pani, e bastano — e Cana può diventare un incontro suo se all'équipe dispiace perderla. Ma allo stato attuale della proposta quei due testi escono dal percorso, e questa è una cosa da mettere sul tavolo insieme alle altre.
+
+**Sette degli otto incontri dell'anno A sono già scritti.** L'anno A è, in sostanza, il percorso attuale ripulito degli incontri che passano all'anno B, più il padre misericordioso.
 
 ### Che cosa c'è di nuovo, e perché
 
@@ -155,6 +176,7 @@ L'ultimo punto merita una riga in più: il capitolo 6 aveva già intuito la cosa
 3. **Emmaus al posto di *Gesù pane della vita* come chiusura della terza.** È il pezzo su cui sono meno sicuro: si può anche lasciare *pane della vita* alla terza e accettare che la quarta lo rifaccia, visto che nella coda lo rifarebbe comunque in altra forma.
 4. **La lavanda dei piedi in due posti.** Se entra nel tronco dell'anno B, chi la fa in terza in un anno B se la ritrova al Giovedì Santo di quarta. Non è per forza un male — la seconda volta la si *fa* invece di raccontarla — ma va deciso apposta.
 5. **Se otto incontri per tronco sono troppi**, la tappa che si comprime per prima è la settima: comandamento e buon samaritano possono tornare a essere un incontro solo.
+6. **Le nozze di Cana e la moltiplicazione dei pani**, che oggi stanno nelle scenette dell'incontro 06, restano fuori. Si accetta di perderle, o si trova loro un posto? La moltiplicazione dei pani starebbe bene in apertura della coda della quarta.
 
 ---
 
