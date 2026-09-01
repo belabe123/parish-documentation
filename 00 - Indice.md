@@ -20,6 +20,8 @@ Le storie della Bibbia raccontate come i «nonni di Gesù», gli incontri mensil
 
 «Io e il mio amico Gesù»: la conoscenza di Gesù attraverso le parabole, dalla fiducia all'Eucaristia. Il filo del ritratto, il quadernino, i dodici incontri e le attività che hanno funzionato meglio.
 
+Sul problema della terza e della quarta insieme c'è una proposta aperta: [due percorsi alternati](<Proposte/Due percorsi alternati per III e IV.md>).
+
 ### [04 — Percorso V elementare e I media](<04 - Percorso V-I media.md>)
 
 «In cammino con Gesù: da discepolo ad apostolo». Le quattro parole che aprono e chiudono l'anno, le testimonianze, il servizio verso i più piccoli.
@@ -47,6 +49,14 @@ Una cartella per incontro, dentro `Schede/`. Modello vuoto: [`_Modello scheda.md
 ### [III e IV elementare](<Schede/III-IV>)
 
 [Mi presento](<Schede/III-IV/01 - Mi presento/01 - Mi presento.md>) · [La storia della salvezza](<Schede/III-IV/02 - La storia della salvezza/02 - La storia della salvezza.md>) · [Dio parla agli uomini](<Schede/III-IV/03 - Dio parla agli uomini/03 - Dio parla agli uomini.md>) · [La parabola dei talenti](<Schede/III-IV/04 - La parabola dei talenti/04 - La parabola dei talenti.md>) · [La parabola del seminatore](<Schede/III-IV/05 - La parabola del seminatore/05 - La parabola del seminatore.md>) · [Di Gesù ci si può fidare](<Schede/III-IV/06 - Di Gesù ci si può fidare/06 - Di Gesù ci si può fidare.md>) · [Gesù non ti lascia solo](<Schede/III-IV/07 - Gesù non ti lascia solo/07 - Gesù non ti lascia solo.md>) · [Il comandamento dell'amore](<Schede/III-IV/08 - Il comandamento dell'amore/08 - Il comandamento dell'amore.md>) · [Il buon samaritano](<Schede/III-IV/09 - Il buon samaritano/09 - Il buon samaritano.md>) · [Gesù non ti giudica](<Schede/III-IV/10 - Gesù non ti giudica/10 - Gesù non ti giudica.md>) · [Gesù si ritira per pregare](<Schede/III-IV/11 - Gesù si ritira per pregare/11 - Gesù si ritira per pregare.md>) · [Gesù pane della vita](<Schede/III-IV/12 - Gesù pane della vita/12 - Gesù pane della vita.md>)
+
+Fuori dai dodici: [Il padre misericordioso](<Schede/III-IV/13 - Il padre misericordioso/13 - Il padre misericordioso.md>) · [I discepoli di Emmaus](<Schede/III-IV/14 - I discepoli di Emmaus/14 - I discepoli di Emmaus.md>)
+
+### [III e IV elementare — anno B](<Schede/III-IV Anno B>)
+
+Gli incontri dell'anno B della proposta [due percorsi alternati](<Proposte/Due percorsi alternati per III e IV.md>), **non ancora adottata**. Si reggono anche da soli: [l'indice dell'anno](<Schede/III-IV Anno B/00 - Indice dell'anno B.md>) dice quali sono e in che ordine.
+
+[Vieni e seguimi](<Schede/III-IV Anno B/03 - Vieni e seguimi/03 - Vieni e seguimi.md>) · [Zaccheo](<Schede/III-IV Anno B/04 - Zaccheo/04 - Zaccheo.md>) · [Bartimeo](<Schede/III-IV Anno B/05 - Bartimeo/05 - Bartimeo.md>) · [La tempesta sedata](<Schede/III-IV Anno B/06 - La tempesta sedata/06 - La tempesta sedata.md>) · [La lavanda dei piedi](<Schede/III-IV Anno B/08 - La lavanda dei piedi/08 - La lavanda dei piedi.md>)
 
 ### [V elementare e I media](<Schede/V-I media>)
 
@@ -85,7 +95,7 @@ Novità dal 2026, descritto in [06 — Percorso di Cresima](<06 - Percorso Cresi
 
 - [Canti](<Comuni/Canti>) — [il repertorio](<Comuni/Canti/_Repertorio.md>)
 - [Preghiere](<Comuni/Preghiere>) — [Ave Maria](<Comuni/Preghiere/Ave Maria.md>) · [Esame di coscienza](<Comuni/Preghiere/Esame di coscienza.md>) · [Padre Nostro con i gesti](<Comuni/Preghiere/Padre Nostro con i gesti.md>)
-- [Immagini](<Comuni/Immagini>)
+- Immagini — la cartella non esiste ancora: le immagini ricorrenti stanno su Drive
 
 ---
 

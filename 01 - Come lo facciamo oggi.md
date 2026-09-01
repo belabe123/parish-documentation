@@ -12,8 +12,6 @@ Parrocchia di Promano
 
 Negli ultimi sette anni il catechismo a Promano è cambiato profondamente, e questo cambiamento non è scritto da nessuna parte.
 
-Vive nelle teste di chi lo ha costruito. Funziona finché ci sono le stesse persone. Ma ogni volta che qualcuno lascia e qualcuno arriva, una parte di quel patrimonio si perde, e si riparte spiegando a voce cose che meriterebbero di essere date per acquisite.
-
 Questo testo prova a fermare sulla carta il *come* e soprattutto il *perché*. Non è un regolamento: è il racconto di una prassi maturata insieme, con i suoi princìpi e i suoi dettagli pratici. Serve a tre cose.
 
 **Accogliere chi arriva.** Un catechista nuovo deve poter capire in una sera come funziona il catechismo a Promano, che cosa ci si aspetta da lui, e soprattutto quale idea di catechesi stiamo servendo.
@@ -148,7 +146,7 @@ L'équipe non è un elenco di turni. È il gruppo che **prepara insieme** gli in
 
 Una scelta che facciamo consapevolmente è la **rotazione e la sovrapposizione**: alcuni catechisti compaiono come «aiuto» in più di un gruppo, e la composizione delle équipe cambia di anno in anno.
 
-Costa qualcosa in termini di continuità, ma protegge da due rischi seri: che un gruppo dipenda da una persona sola — e crolli quando quella persona non c'è — e che si formino tre catechismi diversi dentro la stessa parrocchia.
+Costa qualcosa in termini di continuità, ma serve a due cose: che nessun gruppo dipenda da una persona sola, e che il catechismo resti uno solo in tutta la parrocchia.
 
 ### I catechisti giovanissimi
 

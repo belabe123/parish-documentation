@@ -101,6 +101,8 @@ Le date si fissano a inizio anno e si comunicano per iscritto alle famiglie, ins
 
 I dodici incontri del percorso. **Sono tutti scritti**: la colonna «Scheda» rimanda alla cartella dell'incontro in `Schede/III-IV/`, dove accanto alla scheda stanno i vangeli e i materiali da stampare.
 
+> **Nella cartella ci sono due schede in più**, che non fanno parte di questi dodici: [13 — Il padre misericordioso](<Schede/III-IV/13 - Il padre misericordioso/13 - Il padre misericordioso.md>) e [14 — I discepoli di Emmaus](<Schede/III-IV/14 - I discepoli di Emmaus/14 - I discepoli di Emmaus.md>). Sono nate con la proposta dei [due percorsi alternati](<Proposte/Due percorsi alternati per III e IV.md>), ma si reggono da sole e si possono usare anche senza adottarla — il padre misericordioso in particolare, che finora mancava del tutto. Il numero 13 e 14 è un numero d'archivio, non una posizione nell'anno.
+
 | N. | Titolo | Che cosa deve restare | Scheda |
 |---|---|---|---|
 | 1 | **Mi presento** | Siamo amici. Il mio nome conta: Gesù mi conosce per nome. Conoscersi a fondo, perché siamo meraviglie da scoprire | **[01 - Mi presento](<Schede/III-IV/01 - Mi presento/01 - Mi presento.md>)** |
@@ -159,6 +161,8 @@ Verrebbe naturale pensare a un ciclo biennale — due annate di contenuti divers
 La **Prima Comunione è fissa in quarta**, e il percorso deve culminare nell'Eucaristia proprio per chi la riceve. Un bambino che facesse in terza l'anno «eucaristico» e in quarta l'altro arriverebbe al sacramento dalla parte sbagliata.
 
 **L'ordine dei contenuti è vincolato. Si può far ruotare solo il modo di farli.**
+
+> **Questa obiezione è stata ripresa in mano.** Vale se l'Eucaristia sta dentro uno dei due anni che ruotano — ma di fatto non ci sta già più: da fine marzo la quarta si stacca e fa il percorso di Prima Comunione, che è scritto a parte. Se a ruotare è solo il tronco di novembre-marzo, il vincolo regge lo stesso. La proposta completa, con i costi, è in [Due percorsi alternati per III e IV](<Proposte/Due percorsi alternati per III e IV.md>). Finché l'équipe non decide, vale quanto scritto qui sopra.
 
 ### Le quattro soluzioni ricorrenti
 
