@@ -12,7 +12,7 @@ Documento complementare a [*Il catechismo a Promano — Parte I*](<01 - Come lo 
 
 L'anno dura da novembre ad aprile, con incontri **un sabato sì e uno no** dalle 15:00 alle 16:30. Da aprile i ragazzi di prima media proseguono con il percorso di [Cresima](<06 - Percorso Cresima.md>).
 
-Questo documento ricostruisce il cammino dalle schede degli anni **2021-2022, 2022-2023, 2023-2024, 2024-2025 e 2025-2026**. L'annata di riferimento è il **2023-2024**: è l'unica documentata per intero, sette incontri dal primo all'ultimo, ed è quella che ha l'architettura più chiara.
+L'annata di riferimento è il **2023-2024**: è l'unica documentata per intero, sette incontri dal primo all'ultimo, ed è quella con l'architettura più chiara.
 
 ---
 
@@ -26,7 +26,7 @@ Il passaggio dall'essere seguaci all'essere inviati. Non più soltanto *Gesù mi
 
 ## 2. Il filo: le quattro parole
 
-Questa è la struttura più bella dell'intero archivio, e non è scritta da nessuna parte. Vale la pena recuperarla.
+È la struttura più bella dell'intero archivio, e non è scritta da nessuna parte. Va recuperata.
 
 **Al primo incontro** i ragazzi si dividono in squadre e affrontano una serie di sfide. Il premio di ogni sfida è una busta con dentro delle lettere. Quando le buste sono tutte aperte e le lettere ricomposte, escono fuori tre parole:
 
@@ -69,7 +69,7 @@ Invece di drammatizzare un brano di vangelo, si drammatizzano **situazioni della
 
 ### La riconsegna ai genitori
 
-Un dettaglio organizzativo che nel 2023-2024 era scritto nella comunicazione alle famiglie e vale la pena mantenere:
+Un dettaglio organizzativo, scritto nella comunicazione alle famiglie del 2023-2024 e da mantenere:
 
 > *«All'uscita, ore 16:30, i genitori attenderanno fuori dalla Chiesa, dove ci sarà un catechista addetto a chiamare il bambino e riconsegnarlo al genitore.»*
 
@@ -121,6 +121,7 @@ I sette incontri del percorso, nella forma documentata del 2023-2024. **Sono tut
 **3. Convertitevi e credete al Vangelo.** Si legge il vangelo della domenica, si fa una catechesi sul significato della parola «evangelizzazione» con il supporto di un video, e poi si dividono le squadre per le **scenette sui sette contesti**.
 
 **4. Il servizio.** Esiste in due forme, in due annate diverse, e sono entrambe valide:
+
 - *2023-2024*: si preparano dei **segnalibri** da distribuire alla comunità, dopo aver spiegato perché
 - *2024-2025*: si prepara una **scenetta da presentare al gruppo di I e II elementare**, più le attività rompighiaccio e la preghiera finale — e il sabato successivo la si va a fare davvero. È il servizio verso i più piccoli descritto nella Parte I
 
@@ -173,7 +174,7 @@ L'inventario completo, con i collegamenti ai file, è nel documento di lavoro ch
 
 **Gli obiettivi di due incontri sono vuoti in archivio.** Nella scheda «Conosciamoci» sotto *obiettivo* c'è scritto solo «conoscenza e fare gruppo»; in quella sull'evangelizzazione il campo è proprio vuoto. Vanno formulati quando si scrivono le schede.
 
-**Il video usato per l'evangelizzazione** è un link YouTube salvato nella scheda del 2024. Vale la pena verificare che sia ancora raggiungibile prima di rifarci un incontro sopra.
+**Il video usato per l'evangelizzazione** è un link YouTube salvato nella scheda del 2024. Da verificare che sia ancora raggiungibile prima di rifarci un incontro sopra.
 
 **Il gioco dell'oca dell'Avvento esiste in due versioni** — un pdf del 2021 e un foglio di domande — e va consolidato, come il deserto per III-IV.
 

@@ -12,7 +12,7 @@ Documento complementare a [*Il catechismo a Promano — Parte I*](<01 - Come lo 
 
 L'anno dura da novembre ad aprile, con incontri **un sabato sì e uno no** dalle 15:00 alle 16:30. Da marzo i bambini di quarta si staccano e proseguono con il percorso dedicato, descritto in [05 — Percorso di Prima Comunione](<05 - Percorso Prima Comunione.md>).
 
-Questo documento ricostruisce il cammino dalle schede degli anni **2022-2023, 2023-2024, 2024-2025 e 2025-2026**. Non è un programma da eseguire: è il tracciato che si è consolidato, con dentro le ragioni di ciascuna tappa.
+Non è un programma da eseguire: è il tracciato che si è consolidato, con dentro le ragioni di ciascuna tappa.
 
 ---
 
@@ -49,7 +49,7 @@ Chi prepara un incontro dovrebbe sapere **a che punto del ritratto si trova**. U
 
 ## 3. Come sono fatti gli incontri di questo gruppo
 
-Lo schema orario e i princìpi generali sono nella [Parte I](<01 - Come lo facciamo oggi.md>). Qui vale la pena fissare le tre cose che caratterizzano specificamente III e IV.
+Lo schema orario e i princìpi generali sono nella [Parte I](<01 - Come lo facciamo oggi.md>). Qui le tre cose che caratterizzano specificamente III e IV.
 
 ### Il quadernino
 
@@ -120,7 +120,7 @@ I dodici incontri del percorso. **Sono tutti scritti**: la colonna «Scheda» ri
 
 ### Le attività che hanno funzionato meglio
 
-Non tutte le attività si equivalgono. Queste sono quelle che l'archivio registra come riuscite, e che vale la pena riprendere.
+Non tutte le attività si equivalgono. Queste sono quelle che l'archivio registra come riuscite.
 
 **Le domande a Gesù** *(Mi presento).* Un gruppo resta in sala e si fa domande a vicenda lanciando un dado; l'altro va in chiesa, dove «Gesù aspetta», ed estrae a turno una domanda da fargli, a cui Gesù risponde. Poi i gruppi si scambiano. È il primo incontro dell'anno e stabilisce da subito che Gesù è qualcuno a cui si parla.
 
@@ -156,7 +156,7 @@ Stesso contenuto, due lavori diversi nella stessa stanza. Se si tiene presente q
 
 ### Perché non facciamo due anni alternati
 
-Verrebbe naturale pensare a un ciclo biennale — due annate di contenuti diversi che si alternano, così nessuno rifà niente. Non funziona, e vale la pena sapere perché, per non riproporlo ogni anno.
+Verrebbe naturale pensare a un ciclo biennale — due annate di contenuti diversi che si alternano, così nessuno rifà niente. Non funziona, e la ragione va saputa, per non riproporlo ogni anno.
 
 La **Prima Comunione è fissa in quarta**, e il percorso deve culminare nell'Eucaristia proprio per chi la riceve. Un bambino che facesse in terza l'anno «eucaristico» e in quarta l'altro arriverebbe al sacramento dalla parte sbagliata.
 

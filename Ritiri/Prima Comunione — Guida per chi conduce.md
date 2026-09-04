@@ -64,7 +64,7 @@ Vi rivelo **2 SEGRETI** del **SILENZIO**:
 
 Vi insegno un gesto che tutte le volte che io farò, voi capirete che è ASSOLUTAMENTE NECESSARIO tornare in SILENZIO *(MANO DESTRA SUL CUORE, COME PER PROTEGGERLO DALLA TROPPA CONFUSIONE)*.
 
-> Il gesto della mano sul cuore è l'unico strumento di regia non verbale dell'intero ritiro. Vale la pena insegnarlo bene la prima sera: dopo, funziona da solo.
+> Il gesto della mano sul cuore è l'unico strumento di regia non verbale dell'intero ritiro. Conviene insegnarlo bene la prima sera: dopo, funziona da solo.
 
 ## 3. Le regole, e perché rispettarle
 
@@ -86,7 +86,7 @@ Quel giovane albero siete voi bambini e siamo stati anche tutti noi catechisti e
 
 Quel paletto sono le persone che ci aiutano a crescere: i VOSTRI GENITORI e NONNI, i VOSTRI MAESTRI, i VOSTRI ALLENATORI, i VOSTRI CATECHISTI, che vi danno alcune regole senza le quali crescereste come vi pare, tutti storti e non sarete mai felici.
 
-> L'immagine del paletto è la cosa più riuscita di tutto il ritiro. Funziona perché non moralizza: dice che le regole servono *finché non hai la forza*, non per sempre. Vale la pena non sostituirla con altro.
+> L'immagine del paletto è la cosa più riuscita di tutto il ritiro. Funziona perché non moralizza: dice che le regole servono *finché non hai la forza*, non per sempre. Non va sostituita con altro.
 
 ## Gli orari della giornata
 

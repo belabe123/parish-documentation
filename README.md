@@ -46,7 +46,7 @@ Per tutto il resto vale la regola opposta: **meglio duplicare che rimandare**. S
 
 ## Regole di lavoro
 
-**Niente file pesanti.** Foto, video, scansioni e archivi non entrano qui: vivono su Drive. Il `.gitignore` li blocca automaticamente, ma vale la pena saperlo.
+**Niente file pesanti.** Foto, video, scansioni e archivi non entrano qui: vivono su Drive. Il `.gitignore` li blocca automaticamente.
 
 **Niente dati dei bambini.** Gli elenchi classe, i moduli di iscrizione e le autorizzazioni contengono nomi, date di nascita e recapiti dei minori. Restano su Drive, con i permessi che hanno. **Non entrano in questo repository in nessuna forma**, nemmeno in un esempio.
 
@@ -119,7 +119,7 @@ In ordine di utilità, non di fatica.
 - [ ] **Scrivere i gesti del Padre Nostro** — vedi `Comuni/Preghiere/Padre Nostro con i gesti.md`, che è vuoto apposta. Serve mezz'ora e qualcuno che li faccia mentre si scrive. Un video col telefono vale più di dieci descrizioni.
 - [ ] **Raccolta e riordino degli allegati** — molte schede rimandano a documenti che su Drive esistono ma qui non ci sono ancora.
 - [ ] **Esportazione delle schede in PDF** — è nell'obiettivo iniziale del lavoro: ogni scheda deve poter diventare un documento da stampare o mandare via mail.
-- [ ] **Il libretto dei canti** — non esiste in questo archivio e forse nemmeno su Drive. I cartelloni del ritiro si rifanno ogni anno da capo. Se qualcuno ha i testi già impaginati, vale la pena raccoglierli una volta sola.
+- [ ] **Il libretto dei canti** — non esiste in questo archivio e forse nemmeno su Drive. I cartelloni del ritiro si rifanno ogni anno da capo. Se qualcuno ha i testi già impaginati, conviene raccoglierli una volta sola.
 
 ---
 
@@ -129,7 +129,7 @@ Non sono cose che si possano risolvere scrivendo: vanno decise da chi fa catechi
 
 **Le due classi insieme.** Il problema è documentato nel capitolo 6 di `03 - Percorso III-IV elementare.md`, con le quattro soluzioni che l'archivio contiene. Gli appunti 2024-25 propongono di separare stabilmente almeno la terza dalla quarta, tenendo insieme merenda e gioco. Resta da decidere se diventa la regola o resta un rimedio caso per caso — sapendo che l'équipe è di tre persone, una delle quali viene quando può.
 
-**I genitori in I e II elementare.** La formula usata è *«potrete a vostra discrezione decidere se restare o lasciare i vostri bambini con noi»*. Nelle schede non c'è scritto da nessuna parte che cosa facciano i genitori che restano. Vale la pena decidere se hanno un ruolo o se sono spettatori, e scriverlo.
+**I genitori in I e II elementare.** La formula usata è *«potrete a vostra discrezione decidere se restare o lasciare i vostri bambini con noi»*. Nelle schede non c'è scritto da nessuna parte che cosa facciano i genitori che restano. Va deciso se hanno un ruolo o se sono spettatori, e scritto.
 
 **Due titoli dell'Indice per V-I media** non corrispondono a nessun incontro trovato in archivio. O l'incontro esiste con un altro nome, o il titolo va tolto.
 
@@ -139,7 +139,7 @@ Non sono cose che si possano risolvere scrivendo: vanno decise da chi fa catechi
 
 **I messaggi chiave.** Più di dodici schede hanno un messaggio chiave scritto da zero, perché in archivio non c'era. Sono un'interpretazione, non una fonte: vanno riletti da chi quegli incontri li ha fatti. Ogni scheda lo dichiara in fondo.
 
-**Alcune frasi da soppesare.** Nel testo sulla storia della salvezza compare «Gesù ha pagato al posto degli uomini». È una formula che si usa, ma vale la pena decidere se è quella che vogliamo dire ai bambini.
+**Alcune frasi da soppesare.** Nel testo sulla storia della salvezza compare «Gesù ha pagato al posto degli uomini». È una formula che si usa, ma va deciso se è quella che vogliamo dire ai bambini.
 
 **L'esame di coscienza per la prima media.** Quello che usiamo alla Cresima è lo stesso dei bambini di nove anni. Alcune domande suonano infantili per dei dodicenni, e mancano quelle sul telefono, su come si parla dei compagni, su cosa si guarda. Scriverne una versione per loro è la cosa più utile che si possa fare per il quinto incontro.
 

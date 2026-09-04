@@ -12,8 +12,6 @@ Documento complementare a [*Il catechismo a Promano — Parte I*](<01 - Come lo 
 
 La scelta di farlo **una volta al mese** invece che ogni due settimane nasce da un problema reale, raccontato nella Parte I: gli incontri con i piccolissimi erano la parte più fragile del nostro catechismo. La risposta non è stata rinunciare, ma cambiare formato — meno frequenza, più coinvolgimento delle famiglie, e i catechisti più giovani in prima linea.
 
-Questo documento ricostruisce il cammino dalle schede degli anni **2022-2023, 2023-2024, 2024-2025 e 2025-2026**.
-
 ---
 
 ## 1. L'obiettivo dell'anno
@@ -41,7 +39,7 @@ La sequenza è semplice e va in ordine:
 5. **Il Natale** — Gesù nasce
 6. **La Pasqua** — Gesù risorge
 
-Le prime tre sono i nonni, le ultime tre sono lui. E il passaggio fra Mosè e il Buon Pastore è il punto in cui il percorso cambia soggetto — vale la pena dirlo ai bambini, con parole loro.
+Le prime tre sono i nonni, le ultime tre sono lui. E il passaggio fra Mosè e il Buon Pastore è il punto in cui il percorso cambia soggetto. Va detto ai bambini, con parole loro.
 
 ---
 
@@ -69,7 +67,7 @@ La soluzione consolidata è consegnare a fine incontro le **fotocopie da attacca
 
 Molto **sensoriali**, come dice la Parte I. Un personaggio che «arriva» e si presenta, un video breve, un'attività manuale, un gioco di movimento, una canzone, una preghiera con i gesti.
 
-Due strumenti ricorrenti che vale la pena nominare:
+Due strumenti ricorrenti:
 
 - **Il personaggio che arriva.** Noè entra e si presenta. Non lo si racconta: si presenta lui. È l'attività che i bambini ricordano.
 - **La preghiera con i gesti.** Il Padre Nostro si impara con i movimenti prima che con le parole. Funziona anche con chi non sa ancora leggere.
@@ -173,9 +171,9 @@ L'inventario completo, con i collegamenti ai file, è nel documento di lavoro ch
 
 **Nessuna scheda è ancora stata scritta** in questo repository. Ma cinque dei sei incontri hanno una fonte buona, e **[01 - Dio ha creato il mondo](<Schede/I-II/01 - Dio ha creato il mondo/01 - Dio ha creato il mondo.md>)** è la più curata di tutto l'archivio: è da lì che conviene partire.
 
-**Il formato «genitori e bambini insieme» non si vede nelle schede.** La comunicazione alle famiglie lo promette, la Parte I lo descrive come il carattere proprio del gruppo, ma nessuna delle schede d'archivio prevede un momento in cui i genitori facciano qualcosa. Delle due l'una: o nella pratica i genitori restano a guardare — che è già qualcosa, ma non è quello che abbiamo scritto — oppure le schede sono incomplete. **Vale la pena chiarirlo in équipe prima di scrivere le schede**, perché cambia il modo di scriverle.
+**Il formato «genitori e bambini insieme» non si vede nelle schede.** La comunicazione alle famiglie lo promette, la Parte I lo descrive come il carattere proprio del gruppo, ma nessuna delle schede d'archivio prevede un momento in cui i genitori facciano qualcosa. Delle due l'una: o nella pratica i genitori restano a guardare — che è già qualcosa, ma non è quello che abbiamo scritto — oppure le schede sono incomplete. **Va chiarito in équipe prima di scrivere le schede**, perché cambia il modo di scriverle.
 
-**La canzone di Alfa** usata nel 2025-2026 è un link YouTube. Le canzoni pop invecchiano in fretta: vale la pena, ogni anno, chiedersi se ne serve una più recente. Che sia una canzone che i bambini conoscono già è il punto.
+**La canzone di Alfa** usata nel 2025-2026 è un link YouTube. Le canzoni pop invecchiano in fretta: ogni anno conviene chiedersi se ne serve una più recente. Che sia una canzone che i bambini conoscono già è il punto.
 
 ---
 

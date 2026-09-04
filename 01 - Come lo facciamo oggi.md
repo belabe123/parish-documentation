@@ -20,77 +20,45 @@ Questo testo prova a fermare sulla carta il *come* e soprattutto il *perché*. N
 
 **Rendere verificabile quello che facciamo.** Una prassi scritta si può guardare in faccia, criticare e correggere. Una prassi solo orale si difende da sola.
 
-Questa è la Parte I. Seguiranno la **Parte II**, con il percorso strutturato per ciascun gruppo, e la **Parte III**, con le schede dei singoli incontri. L'indice di entrambe è in fondo a questo documento.
+Questa è la Parte I, il metodo. La **Parte II** — un documento per ciascun gruppo — e la **Parte III** — le schede dei singoli incontri — sono elencate in fondo.
 
 ---
 
 ## 1. Da dove veniamo
 
-Il catechismo che facciamo oggi non è stato progettato a tavolino. È il risultato di sette anni di tentativi, verifiche di settembre e correzioni. Vale la pena ripercorrerlo, perché ogni scelta attuale è la risposta a un problema concreto che abbiamo incontrato.
+Il catechismo di oggi non è stato progettato a tavolino: è il risultato di sette anni di tentativi e di verifiche di settembre. Ogni scelta attuale risponde a un problema concreto.
 
-### 2019-2021: il catechismo per classe
-
-All'inizio si lavorava **classe per classe**: prima, seconda, terza, quarta, quinta elementare e prima media, ciascuna con il proprio percorso. Gli incontri erano costruiti attorno a un testo: si leggeva il brano del Vangelo, si commentava, si distribuiva una scheda da completare o un disegno da colorare.
-
-Era un impianto ordinato e non privo di frutti, ma con due debolezze che sarebbero emerse presto.
-
-La prima è che **richiedeva molti catechisti**: sei classi separate significano sei gruppi da coprire ogni sabato, e non sempre riuscivamo a coprirli tutti. Più di un gruppo, in quegli anni, è rimasto senza un cammino vero.
-
-La seconda è che il bambino stava **fermo e in ascolto** per gran parte del tempo.
-
-### 2020-2021: la rottura
-
-Il Covid ha interrotto tutto. Di quell'anno resta pochissimo: qualche scheda per i gruppi della Comunione e la preparazione al sacramento portata avanti come si poteva.
-
-È stata una perdita, ma anche uno spartiacque. Quando si è ripartiti, non si è ripartiti da dove ci si era fermati.
-
-### 2022-2023: nasce la struttura attuale
-
-Nel settembre 2022 prendiamo la decisione che regge ancora oggi: le classi vengono **accorpate in tre gruppi** — I e II elementare, III e IV, V elementare e I media — e a ciascun gruppo viene assegnata una **équipe di catechisti** stabile.
-
-Contestualmente si fissa il ritmo: **un sabato sì e un sabato no, dalle 15:00 alle 16:30**, con il gruppo dei più piccoli su cadenza mensile. E si introducono due appuntamenti che sarebbero diventati fissi: la **riunione con i genitori** a inizio anno e la **festa di inizio catechismo**.
-
-Non era ancora un metodo nuovo, ma era la struttura che lo avrebbe reso possibile. Tre gruppi invece di sei significano équipe più numerose, dove si può dividere il lavoro, preparare insieme, sostituirsi. E un'équipe che prepara insieme può permettersi incontri più ambiziosi di una scheda da completare.
-
-### 2023-2026: il metodo prende forma
-
-Gli anni successivi sono quelli in cui il *come* diventa consapevole.
-
-Nel settembre 2023, tra le cose andate bene, mettiamo le dinamiche durante gli incontri, il lavoro di squadra, la cura nella preparazione. Tra quelle da migliorare siamo molto onesti: la monotonia durante la dettatura, la fatica a farsi ascoltare, l'incontro un po' lungo, il coinvolgimento ancora debole delle famiglie.
-
-Un anno dopo le stesse voci positive tornano rafforzate, e se ne aggiunge una nuova e significativa: **un legame più forte con loro e tra loro**. Il problema del 2023 era diventato il risultato del 2024.
-
-Nello stesso periodo mettiamo per iscritto ciò a cui crediamo, nei due elenchi «cosa NON è» e «cosa È» la catechesi divertente ripresi nel capitolo seguente.
-
-Da lì in avanti gli incontri cambiano natura: non più lettura e scheda, ma **attività a piccoli gruppi in stanze diverse, drammatizzazioni, giochi strutturati, un segno da portare a casa**. E cambia il modo di prepararli: ogni incontro ha la sua scheda scritta, con obiettivo, scaletta oraria, svolgimento e compiti divisi per nome. Le più recenti indicano anche il minutaggio di ogni fase, l'elenco dei materiali e un messaggio chiave formulato in due righe.
+| Anni | Come si faceva | Cosa è successo |
+|---|---|---|
+| **2019-2021** | **Classe per classe**: sei gruppi, ciascuno col suo percorso. Si leggeva il brano, si commentava, si distribuiva una scheda da completare o un disegno da colorare | Impianto ordinato e non senza frutti, ma con due debolezze. Servivano **sei catechisti ogni sabato** e non sempre c'erano — più di un gruppo è rimasto senza un cammino vero. E il bambino stava fermo ad ascoltare |
+| **2020-2021** | Il Covid interrompe tutto. Resta qualche scheda per i gruppi della Comunione | Una perdita, ma anche uno spartiacque: alla ripartenza non si è ripartiti da dove ci si era fermati |
+| **2022-2023** | Le classi vengono **accorpate in tre gruppi**, ciascuno con una **équipe stabile**. Si fissa il ritmo — un sabato sì e uno no, 15:00-16:30, i più piccoli una volta al mese. Nascono la riunione con i genitori e la festa di inizio catechismo | Non è ancora un metodo nuovo, ma è la struttura che lo rende possibile: équipe più numerose possono preparare insieme, e quindi permettersi incontri più ambiziosi di una scheda da completare |
+| **2023-2024** | Il *come* diventa consapevole. Nella verifica di settembre siamo onesti su cosa non va: la monotonia della dettatura, la fatica a farsi ascoltare, l'incontro un po' lungo, le famiglie poco coinvolte | |
+| **2024-2026** | Gli incontri cambiano natura: **piccoli gruppi in stanze diverse, drammatizzazioni, giochi strutturati, un segno da portare a casa**. Ogni incontro ha la sua scheda scritta, con obiettivo, scaletta, materiali e compiti divisi per nome | Nella verifica compare una voce nuova: **un legame più forte con loro e tra loro**. Il problema del 2023 era diventato il risultato del 2024 |
 
 ### Cosa abbiamo imparato
-
-Guardando i sette anni insieme, tre lezioni si ripetono.
 
 **Meno gruppi, più catechisti per gruppo.** L'accorpamento non è stato un ripiego per mancanza di persone: è la condizione che rende possibile un catechismo preparato bene.
 
 **Il legame viene prima del contenuto.** Il salto di qualità non è arrivato da un programma migliore, ma dall'aver messo a tema esplicitamente la relazione — tra noi e loro, e tra loro.
 
-**Le cose scritte si migliorano, quelle orali si ripetono.** La qualità degli incontri è cresciuta di pari passo con la qualità delle schede.
-
----
+**Le cose scritte si migliorano, quelle orali si ripetono.** La qualità degli incontri è cresciuta di pari passo con quella delle schede.
 
 ## 2. Cosa crediamo
 
-Prima di descrivere come si fa un incontro, serve dire perché lo facciamo così. Altrimenti le indicazioni pratiche dei prossimi capitoli diventano regole arbitrarie, e la prima volta che una regola è scomoda viene abbandonata.
+Le indicazioni pratiche dei prossimi capitoli hanno senso solo a partire da qui. Senza, diventano regole arbitrarie — e la prima volta che una regola è scomoda viene abbandonata.
 
 ### Il primo annuncio viene prima di tutto
 
-Il nostro punto di partenza non è la dottrina, e non è la preparazione ai sacramenti. È il **kerygma**: *Gesù ti ama ed è sempre con te*.
+Il punto di partenza non è la dottrina, e non è la preparazione ai sacramenti. È il **kerygma**: *Gesù ti ama ed è sempre con te*.
 
-Tutto il resto — le preghiere, i comandamenti, la Messa, la storia della salvezza — ha senso solo dopo, e solo come sviluppo di quell'annuncio. Un bambino che impara l'Atto di dolore senza sapersi amato ha imparato una formula. Un bambino che si sa amato può imparare qualsiasi cosa.
+Tutto il resto — preghiere, comandamenti, Messa, storia della salvezza — viene dopo, come sviluppo di quell'annuncio. Un bambino che impara l'Atto di dolore senza sapersi amato ha imparato una formula; un bambino che si sa amato può imparare qualsiasi cosa.
 
-Questo ha una conseguenza pratica precisa: **ogni incontro ha un obiettivo formulato come un messaggio, non come un argomento**. Non «i dieci comandamenti», ma «Gesù ci chiede di amare non solo gli amici, ma anche chi ci tratta male». Non «l'Eucaristia», ma «Gesù resta con noi nel pane».
+Da qui una conseguenza pratica precisa: **ogni incontro ha un obiettivo formulato come un messaggio, non come un argomento**. Non «i dieci comandamenti», ma «Gesù ci chiede di amare non solo gli amici, ma anche chi ci tratta male». Non «l'Eucaristia», ma «Gesù resta con noi nel pane».
 
 ### Descolasticizzare, non svuotare
 
-I bambini vengono al catechismo il sabato pomeriggio, dopo una settimana di scuola. Se trovano un'altra ora di lezione — uno che parla e gli altri che ascoltano — abbiamo già perso, e per una ragione più seria della noia: stiamo comunicando che la fede è un'altra materia.
+I bambini arrivano il sabato pomeriggio, dopo una settimana di scuola. Se trovano un'altra ora di lezione abbiamo già perso, e per una ragione più seria della noia: stiamo comunicando che la fede è un'altra materia.
 
 Ma «meno scolastico» non significa «meno serio».
 
@@ -108,11 +76,11 @@ Ma «meno scolastico» non significa «meno serio».
 - È una catechesi che **si può giocare**. Il gioco è una dimensione fondamentale dell'educazione e, usato bene, favorisce l'apprendimento.
 - È il **gioco dentro**, non in alternativa alla catechesi: non sostituire, non intervallare la lezione con il gioco, ma **permeare la lezione con la mentalità del gioco**.
 
-Quest'ultima frase è la più esigente di tutte, ed è quella su cui conviene tornare ogni volta che si prepara un incontro. Venti minuti di spiegazione seguiti da dieci minuti di gioco non sono catechesi esperienziale: sono una lezione con una ricreazione in fondo. La domanda giusta non è «che gioco facciamo dopo?», ma **«come faccio a far attraversare ai bambini questo contenuto, invece di raccontarglielo?»**.
+L'ultimo punto è il più esigente. Venti minuti di spiegazione seguiti da dieci di gioco non sono catechesi esperienziale: sono una lezione con la ricreazione in fondo. La domanda da farsi preparando un incontro non è «che gioco facciamo dopo?», ma **«come faccio a far attraversare ai bambini questo contenuto, invece di raccontarglielo?»**
 
 ### Si impara con il corpo
 
-Da questa impostazione discende gran parte di ciò che facciamo: i bambini **si spostano** tra chiesa, salone, sale di sopra ed esterno; **interpretano** i personaggi del Vangelo a turno; **costruiscono** con il pongo, il cartellone, i lego; **camminano** in pellegrinaggio; **mangiano** la cena ebraica; **bruciano** i peccati scritti su un foglietto.
+I bambini **si spostano** tra chiesa, salone, sale di sopra ed esterno; **interpretano** a turno i personaggi del Vangelo; **costruiscono** con il pongo, il cartellone, i lego; **camminano** in pellegrinaggio; **mangiano** la cena ebraica; **bruciano** i peccati scritti su un foglietto.
 
 Nessuna di queste cose è un espediente per tenerli buoni. Sono il modo in cui un bambino di otto anni conosce.
 
@@ -120,13 +88,13 @@ Nessuna di queste cose è un espediente per tenerli buoni. Sono il modo in cui u
 
 L'esperienza da sola è volatile. Perché diventi memoria serve un **gesto che la fissi**: una parola scritta sotto il brano, il foglietto incollato nel quadernino, il cuoricino di cartoncino, il disegno appeso al cartellone.
 
-Non è compito scolastico: è ancoraggio. Se alla fine del pomeriggio il bambino non ha scritto o fatto nulla che possa riprendere in mano, il messaggio della giornata evapora entro la settimana.
+Non è compito scolastico, è ancoraggio: se alla fine del pomeriggio il bambino non ha in mano niente da riprendere, il messaggio della giornata evapora entro la settimana.
 
 ### Il catechista è la prima catechesi
 
 I bambini imparano più da ciò che vedono che da ciò che sentono. Un catechista che arriva in ritardo, impreparato, che parla male di un collega o che non va a Messa sta insegnando qualcosa, e non è quello che c'è nella scheda.
 
-Su questo abbiamo un testo dedicato, il **Decalogo del catechista**, riportato integralmente in Appendice A. Non è un elenco di buone intenzioni: è il patto di stile che ci siamo dati.
+Il **Decalogo del catechista**, in Appendice A, è il patto di stile che ci siamo dati.
 
 ---
 
@@ -170,7 +138,7 @@ Non sono dettagli di contorno. Il primo punto del Decalogo dice di non cominciar
 
 ## 4. Anatomia di un incontro
 
-Questo è il capitolo più operativo del documento. Descrive i novanta minuti del sabato pomeriggio così come li facciamo, e i princìpi che li tengono insieme.
+I novanta minuti del sabato pomeriggio, e i princìpi che li tengono insieme.
 
 ### Lo schema orario
 
@@ -183,69 +151,59 @@ Questo è il capitolo più operativo del documento. Descrive i novanta minuti de
 | 16:10-16:30 | Merenda |
 | 16:30 | Saluti e uscita |
 
-Lo schema è stabile da anni ed è comunicato ai genitori a inizio anno. Le variazioni ci sono — un'uscita, una Messa, una festa — ma sono variazioni su una struttura nota, e questo aiuta i bambini più di quanto sembri.
+Lo schema è stabile da anni e viene comunicato ai genitori a inizio anno. Le variazioni — un'uscita, una Messa, una festa — restano variazioni su una struttura nota, e questo aiuta i bambini più di quanto sembri.
 
 ### Accoglienza (15:00)
 
-Non è tempo morto. È il momento in cui si stabilisce il clima di tutto il pomeriggio.
+Non è tempo morto: è il momento in cui si stabilisce il clima del pomeriggio.
 
-Si accoglie **ciascuno per nome**, si fa l'**appello** e si **tiene aggiornato il registro**. La ragione non è burocratica: accorgersi che un bambino manca da tre incontri è il primo atto di cura possibile.
-
-Chi arriva trova la sala **già pronta**: sedie disposte, materiale al suo posto. Il Decalogo lo dice bene: il servizio comincia prima dell'incontro e finisce dopo, quando si riordina insieme ai bambini.
+Si accoglie **ciascuno per nome**, si fa l'**appello**, si tiene aggiornato il **registro** — accorgersi che un bambino manca da tre incontri è il primo atto di cura possibile. Chi arriva trova la sala **già pronta**, sedie disposte e materiale al suo posto.
 
 ### Introduzione (15:10)
 
-Una **breve** introduzione fatta da un catechista, costruita su pochi **punti chiave** decisi in fase di preparazione.
+**Cinque minuti, non quindici.** Non spiega il contenuto dell'incontro — quello lo scopriranno facendo — ma apre la questione e dà la chiave di lettura. Nelle schede lo chiamiamo **messaggio chiave**: due o tre righe che il catechista possa dire quasi a memoria.
 
-Breve significa breve: cinque minuti, non quindici. L'introduzione non spiega il contenuto dell'incontro — quello lo scopriranno facendo — ma apre la questione e dà la chiave di lettura. Nelle nostre schede lo chiamiamo **messaggio chiave**, e lo formuliamo in due o tre righe che il catechista possa dire quasi a memoria.
-
-Spesso si parte da una **domanda-stimolo** rivolta ai bambini, prima di qualsiasi affermazione: *«In chi riponiamo la nostra fiducia?»*, *«Quali sono, secondo te, le cose più belle del mondo? Chi può averle create?»*.
+Si parte spesso da una **domanda-stimolo**, prima di qualsiasi affermazione: *«In chi riponiamo la nostra fiducia?»*, *«Quali sono le cose più belle del mondo? Chi può averle create?»*
 
 ### Attività (15:15-16:00)
 
-È il cuore dell'incontro, e la parte che richiede tutta la preparazione.
+È il cuore dell'incontro e la parte che richiede tutta la preparazione.
 
-**Ci si divide in piccoli gruppi** — di norma da otto bambini circa — e **ci si sposta fisicamente** in ambienti diversi: il salone, la chiesa, le sale al piano superiore, l'esterno. Lo spostamento non è logistica: cambiare stanza cambia l'attenzione, e un gruppo di otto permette a ciascuno di parlare.
+**Ci si divide in gruppi da otto** circa e **ci si sposta** in ambienti diversi: il salone, la chiesa, le sale di sopra, l'esterno. Cambiare stanza cambia l'attenzione, e in otto tutti riescono a parlare.
 
-Da qui in poi le forme sono molte, e la Parte III ne raccoglie il repertorio. Le principali:
+Le forme che usiamo, dalla più frequente:
 
-**Drammatizzazione.** I bambini interpretano a turno i personaggi del brano — il furfante, il malcapitato, il sacerdote, il buon samaritano — o preparano una scenetta da presentare agli altri gruppi. È lo strumento che usiamo più spesso, perché fa attraversare il testo invece di farlo ascoltare. In sacrestia ci sono vestiti che si possono usare.
+- **Drammatizzazione** — si interpretano a turno i personaggi del brano, o si prepara una scenetta per gli altri gruppi. Fa attraversare il testo invece di farlo ascoltare. In sacrestia ci sono vestiti utilizzabili
+- **Costruzione** — qualcosa fatto con le mani che finisce in un luogo comune: il creato in pongo sul cartellone, la casa di lego, il presepe
+- **Gioco strutturato** — un gioco le cui regole *sono* il contenuto: riconoscersi dal verso per entrare nell'arca, il gioco dell'oca dell'Avvento, la caccia al tesoro, il gioco della corda
+- **Lettura attiva** — il brano si legge dentro un compito: un pezzo per uno, cercarvi una parola, rispondere per iscritto stando lontani «a modo di deserto»
+- **Linguaggi espressivi** — scenette, musica, parola, danza: quattro postazioni fra cui i gruppi ruotano
+- **Testimonianza** — qualcuno invitato a raccontare, con le domande preparate dai ragazzi. Funziona soprattutto con i più grandi
+- **Video e canzoni** — come innesco, non come riempitivo
 
-**Costruzione.** Si realizza qualcosa con le mani e lo si porta in un luogo comune: gli elementi del creato in pongo che vanno sul cartellone giorno per giorno, la casa di lego, il presepe, il cartellone della storia della salvezza.
-
-**Gioco strutturato.** Un gioco le cui regole *sono* il contenuto: trovare la coppia di animali riconoscendosi solo dal verso, per entrare nell'arca di Noè; il gioco dell'oca dell'Avvento; la caccia al tesoro con gli indizi; il gioco della corda.
-
-**Lettura attiva.** Il brano si legge, ma dentro un compito: leggerne un pezzo ciascuno, cercarvi una parola, rispondere a domande stando ognuno lontano dall'altro «a modo di deserto».
-
-**Linguaggi espressivi.** Scenette, musica e ritmo, parola, danza e movimento, come quattro postazioni tra cui i gruppi ruotano.
-
-**Testimonianza.** Persone invitate dall'esterno a raccontare, con una lista di domande preparata dai ragazzi. Funziona soprattutto con i più grandi.
-
-**Video e canzoni.** Usati come innesco, non come riempitivo: un corto, una clip, una canzone che i ragazzi conoscono già.
+Il repertorio completo, incontro per incontro, è nelle schede in `Schede/`, divise per gruppo.
 
 ### Rientro e preghiera finale (16:00)
 
-I gruppi **si ritrovano insieme** — spesso in chiesa — e ciascuno presenta agli altri quello che ha fatto: la scenetta, la parola scelta, l'oggetto costruito. È il momento in cui l'esperienza dei piccoli gruppi diventa patrimonio di tutti, e in cui il catechista può ricucire il messaggio.
+I gruppi **si ritrovano insieme** — spesso in chiesa — e ciascuno mostra agli altri quello che ha fatto: la scenetta, la parola scelta, l'oggetto costruito. L'esperienza dei piccoli gruppi diventa di tutti, e il catechista può ricucire il messaggio.
 
-Poi la **preghiera finale**, che facciamo quasi sempre a **formula aperta**: si dà l'inizio della frase e ciascuno la completa ad alta voce.
+Poi la **preghiera finale**, quasi sempre a **formula aperta**: si dà l'inizio della frase e ciascuno la completa ad alta voce.
 
 - *«Grazie Gesù per…»*
 - *«Signore, aiutaci ad amare come Te»*
 - *«Oggi affidiamo a Gesù una persona a cui vogliamo bene»* — e si lascia dire un nome
 
-È una scelta precisa: insegnare a parlare a Gesù come a un amico, con parole proprie. Le preghiere della tradizione si imparano — e vanno imparate — ma la preghiera personale si impara solo praticandola.
+Le preghiere della tradizione si imparano, e vanno imparate. Ma parlare a Gesù con parole proprie si impara solo praticandolo.
 
 ### Merenda (16:10)
 
-**La merenda è parte dell'incontro, non una pausa.** Vale la pena dirlo chiaramente perché è controintuitivo.
+**La merenda è parte dell'incontro, non una pausa.** È il momento in cui i bambini stanno insieme in modo informale e un catechista può parlare con chi è rimasto in disparte. Ai genitori la presentiamo come tale, e chiediamo che portino qualcosa a turno.
 
-È il momento in cui i bambini stanno insieme in modo informale, in cui un catechista può parlare con quello che è rimasto in disparte, in cui il gruppo diventa un gruppo. Nelle riunioni con i genitori la presentiamo esplicitamente come un momento importante, e chiediamo la loro collaborazione portando a turno qualcosa.
-
-C'è anche una ragione di unità. Tenere tutte le classi insieme per l'intero incontro crea confusione, e la soluzione che abbiamo adottato è **separare i gruppi durante le attività e ritrovarsi tutti per la merenda**, ed eventualmente per il gioco finale.
+Ha anche una funzione di unità: tenere tutte le classi insieme per l'intero incontro crea confusione, e la soluzione adottata è **separare i gruppi durante le attività e ritrovarsi tutti per la merenda**, ed eventualmente per il gioco finale.
 
 ### Saluti (16:30)
 
-Si finisce **in orario**. Si **riordina insieme ai bambini** — è parte dell'educazione, non un compito residuo dei catechisti. Chi ha un messaggio da dare ai genitori, lo dà adesso, all'uscita.
+Si finisce **in orario**. Si **riordina insieme ai bambini** — è parte dell'educazione, non un compito residuo dei catechisti. Chi ha un messaggio per i genitori lo dà adesso, all'uscita.
 
 ### I quattro princìpi da ricordare
 
@@ -262,45 +220,21 @@ Se di questo capitolo si dovesse tenere una sola pagina, sarebbe questa.
 
 ### Perché accorpati
 
-L'accorpamento di due annate in un unico gruppo è la scelta strutturale su cui poggia tutto il resto. Permette équipe numerose, quindi incontri preparati; permette i piccoli gruppi durante le attività; permette a un catechista di assentarsi senza che salti l'incontro.
+L'accorpamento di due annate in un unico gruppo è la scelta strutturale su cui poggia tutto il resto: permette équipe numerose e quindi incontri preparati, permette i piccoli gruppi durante le attività, permette a un catechista di assentarsi senza che salti l'incontro.
 
-Ha un costo, che conosciamo e teniamo d'occhio: due annate insieme sono anche due livelli di maturità diversi, e la confusione è dietro l'angolo. La risposta è la stessa già descritta: **separare durante le attività, unire per merenda e gioco**.
+Il costo lo conosciamo: due annate insieme sono due livelli di maturità diversi, e la confusione è dietro l'angolo. La risposta è quella già descritta — **separare durante le attività, unire per merenda e gioco**.
 
-### I e II elementare — «Le storie della Bibbia»
+| Gruppo | Ritmo | Filo conduttore | Carattere proprio |
+|---|---|---|---|
+| [**I e II elementare**](<02 - Percorso I-II elementare.md>) · *Le storie della Bibbia* | Mensile | Le grandi storie — la creazione, Noè, Mosè, i «nonni di Gesù» — e le preghiere fondamentali | L'unico gruppo pensato per essere **vissuto da genitori e bambini insieme**. Incontri molto **sensoriali**: un personaggio che «arriva», un video breve, un'attività manuale, un gioco di movimento, una canzone, una preghiera con i gesti |
+| [**III e IV elementare**](<03 - Percorso III-IV elementare.md>) · *Io e il mio amico Gesù* | Quindicinale, da novembre ad aprile. Da marzo la quarta prosegue verso la Prima Comunione | Il volto di Gesù per tratti successivi: dalla **fiducia** all'**Eucaristia**, passando per il perdono | Non è una raccolta di parabole ma un ritratto progressivo che culmina nel sacramento |
+| [**V elementare e I media**](<04 - Percorso V-I media.md>) · *In cammino con Gesù* | Quindicinale. Da aprile la prima media prosegue verso la Cresima | Il passaggio da seguaci a inviati: non più solo «Gesù mi vuole bene», ma «e adesso tocca a me» | Cambia il registro: **testimonianze** di persone invitate, confronto e discussione, e il **servizio verso i più piccoli** |
 
-**Ritmo:** un incontro al mese, non quindicinale.
+Due cose meritano una riga in più, perché tornano altrove nella documentazione.
 
-**Filo conduttore:** le grandi storie della Bibbia — la creazione, Noè, Mosè, i «nonni di Gesù» — e le preghiere fondamentali.
+**Il formato «genitori e bambini insieme» di I e II** è nato da un problema reale: gli incontri con i piccolissimi erano la parte più fragile del nostro catechismo. La risposta non è stata rinunciare ma cambiare formato — meno frequenza, più coinvolgimento delle famiglie, i catechisti giovanissimi in prima linea. Alle famiglie lo diciamo così: *«I vari incontri saranno pensati per essere vissuti da genitori e bambini assieme. Potrete a vostra discrezione decidere se restare o lasciare i vostri bambini con noi.»*
 
-**Carattere proprio:** questo è l'unico gruppo pensato per essere **vissuto da genitori e bambini insieme**. Nella comunicazione alle famiglie lo diciamo così: *«I vari incontri saranno pensati per essere vissuti da genitori e bambini assieme. Potrete a vostra discrezione decidere se restare o lasciare i vostri bambini con noi.»*
-
-La scelta è nata da un problema reale: gli incontri con i piccolissimi erano la parte più fragile del nostro catechismo. La risposta non è stata rinunciare, ma cambiare formato — meno frequenza, più coinvolgimento delle famiglie, presenza dei catechisti giovanissimi.
-
-**Come sono fatti gli incontri:** molto sensoriali. Un personaggio che «arriva» e si presenta, un video breve, un'attività manuale, un gioco di movimento, una canzone, una preghiera con i gesti.
-
-### III e IV elementare — «Io e il mio amico Gesù»
-
-**Ritmo:** un sabato sì e uno no, da novembre ad aprile. Da marzo, per i bambini di quarta, si aggiunge il percorso di preparazione alla Prima Comunione.
-
-**Filo conduttore:** conoscere Gesù attraverso le sue parabole e i suoi incontri.
-
-**La progressione tipica** procede per tratti del volto di Gesù: *di Gesù ci si può fidare* → *Gesù non ti lascia solo* → *Gesù ci dà un comandamento* → *ama il prossimo tuo* → *Gesù non ti giudica* → *Dio ti ama e ti perdona* → *Gesù si ritira per pregare* → *Gesù pane della vita*.
-
-Vale la pena notarne la logica: si parte dalla **fiducia** e si arriva all'**Eucaristia**, passando per il perdono. Il percorso non è una raccolta di parabole, è un ritratto progressivo che culmina nel sacramento.
-
-**Nota:** poiché la Prima Comunione si celebra in quarta, i bambini di terza rifaranno l'anno successivo il ciclo da un'altra angolatura. Questo va tenuto presente nella scelta delle attività, per non ripetere identicamente le stesse cose.
-
-### V elementare e I media — «In cammino con Gesù: da discepolo ad apostolo»
-
-**Ritmo:** un sabato sì e uno no. Da aprile, per i ragazzi di prima media, il percorso verso la Cresima.
-
-**Filo conduttore:** il passaggio dall'essere seguaci all'essere inviati. Non più solo «Gesù mi vuole bene», ma «e adesso tocca a me».
-
-**Carattere proprio:** con i preadolescenti cambia il registro. Compaiono strumenti che con i più piccoli non useremmo: le **testimonianze** di persone invitate, con una lista di domande preparata dai ragazzi; il **confronto e la discussione**; e soprattutto il **servizio verso i più piccoli**.
-
-Quest'ultimo punto merita attenzione, perché è la traduzione concreta del tema dell'anno: i ragazzi più grandi aiutano i catechisti nella trasmissione della fede ai più piccoli, per esempio preparando una scenetta da presentare al gruppo di prima e seconda. Un ragazzo di prima media che spiega qualcosa a un bambino di sei anni sta facendo esattamente ciò di cui parla il percorso.
-
-È anche, in prospettiva, il primo passo verso il diventare catechisti.
+**Il servizio verso i più piccoli di V e I media** è la traduzione concreta del tema dell'anno: i ragazzi grandi preparano una scenetta e vanno a presentarla al gruppo di prima e seconda. Un ragazzo di prima media che spiega qualcosa a un bambino di sei anni sta facendo esattamente ciò di cui parla il percorso — ed è, in prospettiva, **il primo passo verso il diventare catechisti**.
 
 ---
 
@@ -368,7 +302,7 @@ A inizio anno si consegna una **comunicazione scritta** con calendario, orari, m
 
 ### Settembre — la verifica
 
-L'anno catechistico non comincia con i bambini: comincia con **la verifica dell'anno precedente**, in una riunione di tutti i catechisti. Da anni segue lo stesso schema, che funziona e conviene mantenere:
+L'anno non comincia con i bambini: comincia con **la verifica dell'anno precedente**, in una riunione di tutti i catechisti. Lo schema è sempre lo stesso, e funziona:
 
 1. **Chi siamo** — chi c'è quest'anno, chi manca, chi è nuovo
 2. **Cosa è andato molto bene** — con i «+» accanto alle voci più votate
@@ -376,122 +310,63 @@ L'anno catechistico non comincia con i bambini: comincia con **la verifica dell'
 4. **Idee per il prossimo anno**
 5. **Prossime date**
 
-Il sistema dei «+» è un dettaglio piccolo e prezioso: rende visibile su cosa c'è consenso, senza bisogno di votazioni formali.
+Il sistema dei «+» è un dettaglio piccolo e prezioso: rende visibile su cosa c'è consenso senza bisogno di votazioni formali.
 
 ### Ottobre — organizzazione e festa
 
-Nelle riunioni successive si definiscono: la **divisione delle équipe**, il **calendario** completo dell'anno, l'organizzazione della **festa di inizio** e l'impostazione della **riunione con i genitori**.
+Si definiscono la **divisione delle équipe**, il **calendario** completo dell'anno, l'organizzazione della **festa di inizio** e l'impostazione della **riunione con i genitori**.
 
-La **festa di inizio catechismo** apre l'anno con tutti i gruppi e le famiglie insieme, di norma un sabato pomeriggio di fine ottobre. Gli ingredienti che si ripetono: accoglienza in musica, un momento di preghiera o la Messa con un **gesto forte** preparato bene, uno spettacolo o un video, un gioco che mette insieme bambini e genitori, la merenda.
-
-Due esempi che vale la pena avere in mente. In un anno la festa era dentro la Messa: un pannello con il mondo disegnato, oscurato progressivamente dalle parole dette dai bambini su ciò che spegne il mondo, la chiesa al buio, poi le candele accese una a una e i pezzi neri staccati fino a scoprire il volto di Gesù sotto — *il catechismo ci insegna a tenere sempre accesa la Sua luce dentro di noi*. In un altro la festa era in oratorio: accoglienza con i balletti, presentazione delle équipe, un cortometraggio, il gesto di costruire una casa con i lego, la lettura con i genitori chiamati a fare i personaggi, e una sfida di ballo bambini contro genitori.
+La **festa di inizio catechismo** apre l'anno con tutti i gruppi e le famiglie insieme, di norma un sabato pomeriggio di fine ottobre: accoglienza in musica, un momento di preghiera o la Messa con un **gesto forte** preparato bene, uno spettacolo o un video, un gioco che mette insieme bambini e genitori, la merenda. Le edizioni già fatte, con i loro gesti, sono nella scheda [Festa di inizio catechismo](<Schede/Tempi forti/01 - Festa di inizio catechismo/01 - Festa di inizio catechismo.md>).
 
 ### Novembre-aprile — gli incontri
 
-Il corpo dell'anno: incontri **quindicinali** per III-IV e V-I media, **mensili** per I-II. Le date sono fissate a inizio anno e comunicate per iscritto.
+Il corpo dell'anno: incontri **quindicinali** per III-IV e V-I media, **mensili** per I-II. Le date si fissano a inizio anno e si comunicano per iscritto.
 
-Sono scanditi dai **tempi forti**. In **Avvento**: il gioco dell'oca dell'Avvento, il calendario di attesa, la costruzione del presepe, l'accensione delle candele. In **Quaresima**: il tema del deserto, il «togliere per aggiungere», le azioni di carità, la preparazione alla Pasqua. Il Natale e la Pasqua hanno di norma un incontro dedicato o un evento aperto alle famiglie.
+Sono scanditi dai **tempi forti**. In Avvento il gioco dell'oca, il calendario di attesa, la costruzione del presepe, l'accensione delle candele; in Quaresima il deserto, il «togliere per aggiungere», le azioni di carità. Natale e Pasqua hanno di norma un incontro dedicato o un evento aperto alle famiglie.
 
 ### Aprile — la festa di fine catechismo
 
-Chiude il cammino ordinario, con tutti i gruppi e le famiglie.
-
-Il modello più riuscito è il **pellegrinaggio a piedi**, sperimentato verso il santuario di Canoscio in occasione del Giubileo, ed è replicabile: partenza a piedi con i bambini accompagnati dai genitori, **due o tre soste brevi** lungo il cammino con un canto e un gesto per ricompattare il gruppo, arrivo al santuario, un gesto simbolico all'ingresso, la **Messa con un segno preparato** — durante la predica i bambini scrivevano su un cuoricino di cartoncino un sogno o una preghiera e lo deponevano in una scatola con una porta disegnata sopra — e la merenda finale portata dalle famiglie.
-
-Ha funzionato per una ragione precisa: il cammino stesso *era* il contenuto. Non una gita con una Messa in fondo, ma un'esperienza in cui camminare, faticare e arrivare dicevano la cosa che volevamo dire.
+Chiude il cammino ordinario, con tutti i gruppi e le famiglie. Il modello più riuscito è il **pellegrinaggio a piedi** verso il santuario di Canoscio, ed è replicabile — ha funzionato per una ragione precisa: il cammino stesso *era* il contenuto, non una gita con una Messa in fondo. Le soste, i gesti e il segno preparato per la Messa sono nella scheda [Festa di fine catechismo e pellegrinaggio](<Schede/Tempi forti/05 - Festa di fine catechismo e pellegrinaggio/05 - Festa di fine catechismo e pellegrinaggio.md>).
 
 ### Aprile-giugno — la coda sacramentale
 
-Dopo la festa di fine catechismo il percorso ordinario si chiude, e proseguono **soltanto i bambini che ricevono i sacramenti**, con un ritmo più intenso — in genere tutti i sabati. È l'oggetto del capitolo seguente.
+Chiuso il percorso ordinario proseguono **soltanto i bambini che ricevono i sacramenti**, con un ritmo più intenso, in genere tutti i sabati. È l'oggetto del capitolo seguente.
 
 ### Giugno — le cerimonie e la festa patronale
 
-**Prima Comunione** e **Cresima** in due domeniche di fine maggio e inizio giugno. A chiudere, la **festa di San Biagio**, con il pranzo e i giochi per i bambini.
+**Prima Comunione** e **Cresima** in due domeniche fra fine maggio e inizio giugno. A chiudere, la **festa di San Biagio**, con il pranzo e i giochi per i bambini.
 
 ### Il calendario in una pagina
 
-| Periodo | Cosa |
-|---|---|
-| Settembre | Verifica dell'anno precedente |
-| Ottobre | Équipe, calendario, festa di inizio |
-| Primo incontro | Riunione genitori nella prima mezz'ora |
-| Novembre-Aprile | Incontri quindicinali (mensili per I-II) |
-| Avvento e Quaresima | Attività dei tempi forti |
-| Marzo | Riunione genitori per i sacramenti |
-| Aprile | Festa di fine catechismo; ritiri |
-| Aprile-Maggio | Incontri di avvicinamento ai sacramenti |
-| Fine maggio | Prima Comunione |
-| Inizio giugno | Cresima |
-| Giugno | Festa di San Biagio |
+| Quando | Cosa | Chi |
+|---|---|---|
+| Inizio settembre | Riunione di verifica dell'anno precedente | Tutti i catechisti |
+| Metà settembre | Divisione delle équipe | Tutti i catechisti |
+| Inizio ottobre | Calendario dell'anno, organizzazione festa di inizio | Tutti |
+| Fine ottobre | Festa di inizio catechismo | Tutti + famiglie |
+| Primo incontro | Riunione genitori (prima mezz'ora) | Équipe di gruppo |
+| Nov - Apr | Incontri quindicinali | Équipe di gruppo |
+| Dicembre | Attività di Avvento e Natale | Équipe di gruppo |
+| Febbraio | Riunione organizzativa ritiri e sacramenti | Tutti |
+| Feb - Mar | Attività di Quaresima | Équipe di gruppo |
+| Entro metà marzo | Riunione genitori dei sacramenti | Équipe + don Simone |
+| Giovedì Santo | Cena ebraica e lavanda dei piedi | Équipe III-IV + famiglie |
+| Metà aprile | Festa di fine catechismo | Tutti + famiglie |
+| Aprile o maggio | Ritiri Comunione e Cresima (weekend distinti) | Équipe + animatori zonali |
+| Maggio | Incontri di avvicinamento, prove, confessioni | Équipe dei sacramenti |
+| Fine maggio | Prima Comunione | Tutti |
+| Inizio giugno | Cresima | Tutti |
+| Giugno | Festa di San Biagio | Comunità |
 
 ---
 
 ## 8. I sacramenti
 
-La preparazione alla Prima Comunione e alla Cresima è la parte più intensa e più curata del nostro anno. Ha un ritmo proprio, coinvolge le famiglie in modo diverso, e negli ultimi anni si è arricchita di elementi che vale la pena descrivere con precisione.
+La preparazione alla Prima Comunione e alla Cresima è la parte più intensa e più curata dell'anno. Ha **due documenti propri**, a cui si rimanda per il dettaglio degli incontri, del ritiro e della celebrazione: [Il percorso di Prima Comunione](<05 - Percorso Prima Comunione.md>) e [Il percorso di Cresima](<06 - Percorso Cresima.md>).
 
-I due percorsi hanno inoltre un documento dedicato ciascuno, a cui si rimanda per il dettaglio degli incontri, del ritiro e della celebrazione.
+Qui basta sapere come cambia il ritmo. **Da fine marzo** il percorso si stacca da quello ordinario: incontri più frequenti, **orari diversi** — le 16:00 o le 17:00 invece delle 15:00 — e spesso la **Messa alle 18:30 insieme ai genitori** a chiudere il pomeriggio. Precede tutto una **riunione con i genitori**, da fissare entro metà marzo.
 
-### Il ritmo
-
-Da fine marzo il percorso si stacca da quello ordinario: incontri **più frequenti**, spesso seguiti dalla **Messa insieme ai genitori** alle 18:30, e con orari diversi da quelli del catechismo abituale — le 16:00 o le 17:00 anziché le 15:00.
-
-Il calendario tipo:
-
-- **Fine marzo** — primo incontro riservato ai bambini dei sacramenti, seguito dalla Messa con i genitori
-- **Giovedì Santo** — cena ebraica e lavanda dei piedi
-- **Metà aprile** — festa di fine catechismo, comune a tutti
-- **Aprile o maggio** — ritiro residenziale, in weekend distinti per Comunione e Cresima
-- **Maggio** — incontri di avvicinamento, prove, confessioni
-- **Fine maggio / inizio giugno** — le cerimonie
-
-Precede tutto una **riunione con i genitori**, da fissare entro metà marzo.
-
-### Il ritiro
-
-Il ritiro residenziale è oggi **zonale**, organizzato insieme alle parrocchie vicine — Trestina in particolare — con équipe miste di catechisti e animatori.
-
-Dura **tre giorni**, di norma da venerdì a domenica, con date distinte per la Comunione e per la Cresima.
-
-Ha una macchina organizzativa che va avviata per tempo:
-
-- accordi con i catechisti e gli animatori delle altre parrocchie
-- **cucina**: coinvolgimento dei volontari
-- **brandine**: reperimento, trasporto, montaggio
-- **volontari** tra i genitori, da reclutare esplicitamente durante la riunione
-- programma, materiali, momenti di preghiera
-
-È stabilmente tra le esperienze più riuscite dell'anno.
-
-### La cena ebraica del Giovedì Santo
-
-È il gesto più bello del percorso ed è ormai una tradizione. Ricostruiamo insieme, bambini e genitori, la cena pasquale ebraica — la cornice dell'Ultima Cena — e da lì si passa in chiesa per la **lavanda dei piedi** e la Messa.
-
-Gli elementi da preparare:
-
-- agnello, erbe amare (valeriana), pane non lievitato — **prevedendo l'alternativa per i celiaci** — acqua, vino sostituito da succo di mirtillo
-- tovaglie, piatti, bicchieri, tovaglioli, candeline, rametti d'ulivo
-- i **libretti** con il testo e il significato dei gesti
-- il **video dell'Ultima Cena**
-- catino, brocca e asciugamano per la lavanda dei piedi
-
-Si chiede un **contributo di 5 euro** a partecipante. Arrivo alle 19:00, cena, lavanda dei piedi, Messa alle 21:00 con i genitori.
-
-### Gli incontri di avvicinamento
-
-Nelle ultime settimane il percorso si fa molto concreto.
-
-**L'esame di coscienza.** Si distribuisce e si incolla nel quadernino il foglio con le domande, e si leggono insieme. In un secondo momento ciascuno lo compila per sé, in silenzio.
-
-**Le confessioni.** Precedute da un momento di gioco e distensione, seguite da un gesto che i bambini ricordano a lungo: si esce, si va nella cappellina e si **bruciano i foglietti** con i peccati scritti.
-
-**Le preghiere dei fedeli.** Le scrivono i bambini stessi, a casa, e le riportano. Chi vuole le legge durante la cerimonia.
-
-**Le prove.** Come si riceve la Comunione: in processione partendo dall'ultimo, uno alla volta, mani giunte, le mani a fiore. Si prova con un'**ostia non consacrata**. Si prova l'ingresso in chiesa e la disposizione nei banchi, con i bigliettini che indicano nome e numero di panca.
-
-**La logistica.** Le vestine da ritirare, i ricordini per i bambini, l'ordine di ingresso, i posti per le famiglie.
-
-**La cena con i genitori**, il sabato prima della cerimonia, chiude il percorso.
+Poi vengono, nell'ordine: il **ritiro** — tre giorni residenziali, ormai zonali, organizzati insieme alle parrocchie vicine, in weekend distinti per Comunione e Cresima, con una macchina organizzativa da avviare a febbraio; la **cena ebraica del Giovedì Santo** con le famiglie; e a maggio gli **incontri di avvicinamento** — esame di coscienza, confessioni con la bruciatura dei foglietti, preghiere dei fedeli scritte dai bambini, prove della cerimonia, cena con i genitori.
 
 ### Un'avvertenza
 
@@ -520,13 +395,13 @@ Ogni incontro ha la sua scheda scritta. È lo strumento che ha fatto crescere di
 - **Preghiera finale** — la formula che si propone
 - **TODO** — i compiti **con il nome accanto**
 
-Su quest'ultimo punto vale la pena insistere: ogni compito ha un responsabile — chi prepara il foglietto, chi scrive l'introduzione, chi fa i cartellini con i nomi, chi avvisa i genitori. È il motivo per cui le cose vengono fatte.
+Su quest'ultimo punto si insiste: ogni compito ha un responsabile — chi prepara il foglietto, chi scrive l'introduzione, chi fa i cartellini con i nomi, chi avvisa i genitori. È il motivo per cui le cose vengono fatte.
 
 ### Il diario di bordo
 
 È lo strumento su cui siamo più indietro: un quaderno o un file dove annotare **dopo** l'incontro come è andato — cosa ha funzionato, cosa no, quanto è durata davvero un'attività, chi era assente.
 
-Vale la pena riprenderlo, perché è ciò che trasforma le schede da elenco di buone idee in **repertorio verificato**. Bastano tre righe in fondo alla scheda.
+È ciò che trasforma le schede da elenco di buone idee in **repertorio verificato**. Bastano tre righe in fondo alla scheda.
 
 ### Elenchi e registro
 
@@ -542,7 +417,7 @@ La **Parte III** di questo documento nasce esattamente per risolvere questo prob
 
 ### Foto e video
 
-Documentiamo i momenti importanti. Servono per la memoria dei bambini, per le famiglie e per raccontare il catechismo alla comunità. Vanno archiviati nella cartella dell'anno, e vale la pena ricordarsi del **consenso dei genitori** per le immagini che escono dal gruppo.
+Documentiamo i momenti importanti. Servono per la memoria dei bambini, per le famiglie e per raccontare il catechismo alla comunità. Vanno archiviati nella cartella dell'anno. Per le immagini che escono dal gruppo serve il **consenso dei genitori**.
 
 ### Le comunicazioni
 
@@ -580,54 +455,7 @@ Documentiamo i momenti importanti. Servono per la memoria dei bambini, per le fa
 
 ## Appendice B — Modello di scheda incontro
 
-```
-GRUPPO:            [I-II / III-IV / V-I media]
-INCONTRO N.:       ___     DATA: ___________
-TITOLO:            _________________________
-
-OBIETTIVO DELL'INCONTRO
-Trasmettere ai bambini che:
-- 
-- 
-- 
-
-MESSAGGIO CHIAVE (2-3 righe, da dire quasi a memoria)
-
-
-SCALETTA
-15:00  Accoglienza e appello
-15:10  Introduzione — 
-15:15  Attività — 
-16:00  Rientro comune e restituzione
-16:05  Preghiera finale
-16:10  Merenda
-16:30  Saluti e riordino
-
-APPUNTI PER LO SVOLGIMENTO
-Divisione dei gruppi:
-Spazi utilizzati:
-Svolgimento passo per passo:
-
-MATERIALE OCCORRENTE
-- 
-
-PREGHIERA FINALE
-Formula proposta: «...»
-
-ALLEGATI
-- 
-
-TODO (con il nome del responsabile)
-- ____________________ (      )
-- ____________________ (      )
-- Avvisare i genitori nel gruppo (      )
-
-DIARIO DI BORDO — da compilare dopo l'incontro
-Cosa ha funzionato:
-Cosa cambierei:
-Durata reale delle attività:
-Assenti:
-```
+Il modello vuoto da cui partire per scrivere un incontro è [`Schede/_Modello scheda.md`](<Schede/_Modello scheda.md>). Si copia la cartella di un incontro esistente, si svuota, e si riempie.
 
 ---
 
@@ -657,79 +485,12 @@ Assenti:
 
 ---
 
-## Appendice D — Calendario tipo dell'anno
+## Le altre parti della documentazione
 
-| Quando | Cosa | Chi |
-|---|---|---|
-| Inizio settembre | Riunione di verifica dell'anno precedente | Tutti i catechisti |
-| Metà settembre | Divisione delle équipe | Tutti i catechisti |
-| Inizio ottobre | Calendario dell'anno, organizzazione festa di inizio | Tutti |
-| Fine ottobre | Festa di inizio catechismo | Tutti + famiglie |
-| Primo incontro | Riunione genitori (prima mezz'ora) | Équipe di gruppo |
-| Nov - Apr | Incontri quindicinali | Équipe di gruppo |
-| Dicembre | Attività di Avvento e Natale | Équipe di gruppo |
-| Febbraio | Riunione organizzativa ritiri e sacramenti | Tutti |
-| Feb - Mar | Attività di Quaresima | Équipe di gruppo |
-| Entro metà marzo | Riunione genitori dei sacramenti | Équipe + don Simone |
-| Giovedì Santo | Cena ebraica e lavanda dei piedi | Équipe III-IV + famiglie |
-| Metà aprile | Festa di fine catechismo | Tutti + famiglie |
-| Aprile o maggio | Ritiri Comunione e Cresima (weekend distinti) | Équipe + animatori zonali |
-| Maggio | Incontri di avvicinamento, prove, confessioni | Équipe dei sacramenti |
-| Fine maggio | Prima Comunione | Tutti |
-| Inizio giugno | Cresima | Tutti |
-| Giugno | Festa di San Biagio | Comunità |
+Questa è la Parte I: il metodo. Le altre due esistono e sono documenti a sé.
 
----
+**Parte II — I percorsi.** Un documento per gruppo, con l'obiettivo dell'anno, il filo conduttore, il calendario tipo e l'elenco degli incontri: [I e II elementare](<02 - Percorso I-II elementare.md>), [III e IV elementare](<03 - Percorso III-IV elementare.md>), [V elementare e I media](<04 - Percorso V-I media.md>). I due percorsi sacramentali hanno documenti propri: [Prima Comunione](<05 - Percorso Prima Comunione.md>) e [Cresima](<06 - Percorso Cresima.md>).
 
-# Indice delle Parti II e III
+**Parte III — Le schede.** Una cartella per incontro in `Schede/`, con la scheda e i materiali da stampare. Sul sito sono nel menu, divise per gruppo; nel repository, in `Schede/` e nell'indice generale.
 
-*Da sviluppare dopo l'approvazione della Parte I.*
-
-## Parte II — I percorsi
-
-Per ciascuno dei tre gruppi:
-
-**1. I e II elementare — Le storie della Bibbia**
-- Obiettivo formativo dell'anno
-- Filo conduttore e tappe
-- Il formato «genitori e bambini insieme»
-- Calendario tipo (6 incontri mensili)
-- Elenco degli incontri, con titolo e obiettivo in una riga
-
-**2. III e IV elementare — Io e il mio amico Gesù**
-- Obiettivo formativo dell'anno
-- La progressione: dalla fiducia all'Eucaristia
-- Calendario tipo (10 incontri quindicinali)
-- Elenco degli incontri, con titolo e obiettivo in una riga
-- Nota sul biennio: come differenziare per chi ripete il ciclo
-
-**3. V elementare e I media — In cammino con Gesù: da discepolo ad apostolo**
-- Obiettivo formativo dell'anno
-- La progressione: dall'essere seguito all'essere inviato
-- Calendario tipo (10 incontri quindicinali)
-- Elenco degli incontri, con titolo e obiettivo in una riga
-- Il servizio verso i più piccoli come metodo
-
-**4. I percorsi sacramentali**
-- Rimando ai due documenti dedicati: *Il percorso di Prima Comunione* e *Il percorso di Cresima*
-
-## Parte III — Le schede
-
-Circa 28 schede riportate al formato dell'Appendice B. Organizzazione prevista:
-
-**Schede per I e II elementare** *(~6)*
-Dio ha creato il mondo · Noè · Mosè · Il Buon Pastore · Il Natale · La Pasqua
-
-**Schede per III e IV elementare** *(~12)*
-Mi presento · La storia della salvezza · Dio parla agli uomini · La parabola dei talenti · La parabola del seminatore · Di Gesù ci si può fidare · Gesù non ti lascia solo (la pecora smarrita) · Il comandamento dell'amore · Il buon samaritano · Gesù non ti giudica · Gesù si ritira per pregare · Gesù pane della vita
-
-**Schede per V elementare e I media** *(~7)*
-Primo incontro e conoscenza · L'attesa attiva (Avvento) · Convertitevi e credete al Vangelo · La testimonianza · Il servizio ai più piccoli · Il deserto (Quaresima) · Da discepolo ad apostolo
-
-**Schede dei tempi forti e degli eventi** *(~5)*
-Festa di inizio catechismo · Avvento · Natale · Quaresima e deserto · Festa di fine catechismo e pellegrinaggio
-
-**Schede del percorso sacramentale** *(~5)*
-Cosa è la Prima Comunione · Le quattro parti della Messa · Il sacramento della Riconciliazione · La cena ebraica e la lavanda dei piedi · Esame di coscienza, confessioni e prove
-
-Ogni scheda avrà, oltre al contenuto, i riferimenti agli **allegati** — foglietti, vangeli, immagini, presentazioni — da recuperare e riordinare.
+*Il calendario tipo dell'anno, che stava qui in appendice, è ora nel capitolo 7.*

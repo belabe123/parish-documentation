@@ -343,7 +343,7 @@ Su Drive, in `Ritiro/Pagine quaderno ritiro comunione`, ci sono due edizioni che
 | Completezza | parziale, con pagine «riviste» in due versioni *(pag. 20 e 22)* | integrale, copertina compresa |
 | Extra | due immagini «Esame di coscienza 1 e 2» | — |
 
-**Il 2024 è l'edizione da usare come riferimento**: è completa e la struttura corrisponde alla guida. Il 2018 conserva però due pagine *riviste* (la 20 e la 22) che sembrano una correzione successiva: vale la pena guardarle prima di rifare le fotocopie.
+**Il 2024 è l'edizione da usare come riferimento**: è completa e la struttura corrisponde alla guida. Il 2018 conserva però due pagine *riviste* (la 20 e la 22) che sembrano una correzione successiva: da guardare prima di rifare le fotocopie.
 
 > **Attenzione, dato personale.** La scansione del 2024 è il quaderno di **un bambino, col suo nome sulla copertina**. È giusto che resti su Drive come memoria; **non va copiata in questo repository** e non va condivisa fuori dalla parrocchia. Qui il nome è stato sostituito da un segnaposto.
 

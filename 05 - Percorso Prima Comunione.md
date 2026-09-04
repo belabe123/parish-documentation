@@ -10,9 +10,7 @@ Documento complementare a *Il catechismo a Promano — Parte I*
 
 La preparazione alla Prima Comunione è la parte più densa del nostro anno catechistico. Coinvolge i bambini di **quarta elementare**, dura circa tre mesi, e comprende esperienze che nel catechismo ordinario non hanno equivalente: una cena rituale, tre giorni di ritiro residenziale, la prima confessione.
 
-È anche la parte in cui il rischio è più alto. Le cose da organizzare sono tante e urgenti — brandine, cucina, autorizzazioni, vestine, posti in chiesa — e possono facilmente prendere il sopravvento sul motivo per cui le stiamo facendo. Questo documento prova a tenere insieme le due cose: **il senso e la macchina**.
-
-Il materiale su cui si basa copre gli anni dal 2018 al 2026, con una parte importante — il quaderno del ritiro — che risale a prima e continua a essere usata.
+È anche la parte in cui il rischio è più alto: le cose da organizzare sono tante e urgenti — brandine, cucina, autorizzazioni, vestine, posti in chiesa — e possono prendere il sopravvento sul motivo per cui le stiamo facendo. Questo documento prova a tenere insieme **il senso e la macchina**.
 
 ---
 
@@ -38,7 +36,7 @@ Quest'ultimo dettaglio non è organizzativo: è il modo in cui abbiamo scelto di
 
 ## 2. Il filo del percorso
 
-Il cammino di III e IV elementare arriva alla Comunione per una strada precisa, che vale la pena avere chiara perché orienta anche le scelte della fase finale.
+Il cammino di III e IV elementare arriva alla Comunione per una strada precisa, e averla chiara orienta anche le scelte della fase finale.
 
 Si parte dalla **fiducia** — *di Gesù ci si può fidare* — si passa per il fatto che **non ci lascia soli**, per il **comandamento dell'amore**, per il **perdono** e il **non giudizio**, e si arriva a **Gesù pane della vita**.
 
@@ -50,19 +48,17 @@ Tutta la fase di preparazione dovrebbe suonare questa nota. Le due minacce da te
 
 ## 3. La riunione con i genitori
 
-Si tiene **entro metà marzo**, di sera, in oratorio. È la riunione più importante dell'anno perché da lì dipendono la partecipazione al ritiro e la collaborazione delle famiglie.
+**Entro metà marzo**, di sera, in oratorio. È la riunione più importante dell'anno: da lì dipendono la partecipazione al ritiro e la collaborazione delle famiglie.
 
-**Struttura consolidata**
+**Introduzione (don Simone).** Da dove viene il percorso e perché lo facciamo così. Si proietta un **video-trailer** con foto e filmati dell'anno precedente — convince a lasciar partire i figli più di qualunque discorso. Si presenta il **quaderno** e si spiega la **dettatura**.
 
-**Introduzione (don Simone).** Da dove viene questo percorso e perché lo facciamo così. Si proietta un **breve video-trailer** con foto e filmati dell'anno precedente: è lo strumento che più di ogni discorso convince i genitori a lasciar partecipare i figli al ritiro. Si presenta il **quaderno** — l'origine dell'idea, come viene usato — e si spiega la **modalità della dettatura**.
+**La giornata tipo al ritiro**, raccontata da chi c'è stato: sveglia, mattina, pranzo, pomeriggio, cena, sera. Serve a rassicurare.
 
-**La giornata tipo al ritiro.** Un catechista racconta concretamente come si svolge una giornata: sveglia, mattina, pranzo, attività pomeridiane, cena, sera. Serve a rassicurare, e va fatto da chi c'è stato.
+**Informazioni tecniche.** Orari di arrivo e rientro · **telefoni: non si portano** · intolleranze alimentari · terapie e medicinali · quota, con la precisazione da dire sempre ad alta voce che **non deve essere un ostacolo**, e che chi ha difficoltà ne parli in privato con i catechisti o con il parroco (i fratelli pagano metà) · **autorizzazioni** da restituire firmate, con un foglio riepilogativo di tutte le informazioni.
 
-**Informazioni tecniche.** Orari di arrivo e rientro; **regola sui telefoni: non si portano**; intolleranze alimentari; terapie e medicinali; quota di partecipazione, con la precisazione — da dire sempre, ad alta voce — che **la quota non deve essere un ostacolo** e che chi ha difficoltà ne parli privatamente con i catechisti o con il parroco. I fratelli pagano metà. Si consegnano le **autorizzazioni** da restituire firmate, insieme a un foglio riepilogativo con tutte le informazioni.
+**Occorrente e collaborazione.** Cosa portare per dormire — incluso il **coprimaterasso obbligatorio**, che protegge le brandine — e il materiale per i laboratori. Si chiede esplicitamente disponibilità per: brandine (trasporto e ritiro), cucina, dolci per le colazioni, **serata speciale del sabato**. Il pranzo della domenica è **condiviso**: ogni parrocchia porta qualcosa e va tutto in comune.
 
-**Occorrente e collaborazione.** Cosa portare per dormire — incluso il **coprimaterasso obbligatorio**, per proteggere le brandine — e il materiale per i laboratori. Si chiede esplicitamente disponibilità per: trasporto e ritiro delle brandine, supporto in cucina, preparazione dei dolci per le colazioni, e la **serata speciale del sabato**. Il pranzo della domenica è **condiviso**: ogni parrocchia si organizza per portare qualcosa, tutto va in comune.
-
-**Informazioni sul cammino e sulle cerimonie.** Dopo il momento comune ci si divide per parrocchia e si danno le informazioni specifiche di ciascun gruppo.
+**Poi ci si divide per parrocchia**, per le informazioni specifiche di ciascun gruppo — cammino e cerimonie.
 
 ---
 
@@ -107,19 +103,22 @@ In archivio esistono tre versioni del libretto: quella completa per Promano, una
 
 ## 5. Il ritiro
 
-Tre giorni residenziali, ormai **zonali**: si svolgono all'**Oratorio Ore d'Oro di Trestina** insieme alle parrocchie vicine, con un'équipe mista di catechisti e animatori. Nell'ultima edizione i bambini erano circa sessanta, di cui una ventina di Promano.
+Tre giorni residenziali, ormai **zonali**: all'**Oratorio Ore d'Oro di Trestina**, insieme alle parrocchie vicine, con un'équipe mista di catechisti e animatori. Nell'ultima edizione i bambini erano circa sessanta, una ventina di Promano.
 
 È l'esperienza più forte del percorso, e la sua qualità dipende quasi interamente da quanto è stata preparata.
 
-### Il pernottamento
-
-È **previsto e consigliato**, per vivere i tre giorni in continuità, ma **resta una scelta della famiglia e non deve ostacolare la partecipazione**. Chi non dorme rientra a casa alla fine delle attività serali, verso le 21:30, e torna la mattina entro le 8:00.
-
-Questa formulazione va mantenuta così com'è nella comunicazione ai genitori: è la ragione per cui nessuno resta fuori.
+> **Il ritiro ha due documenti propri, ed è lì che sta il dettaglio.**
+>
+> [**Guida per chi conduce**](<Ritiri/Prima Comunione — Guida per chi conduce.md>) — la trascrizione del quaderno manoscritto con cui il sacerdote conduce il ritiro: gli orari ora per ora, il silenzio e il segno della mano sul cuore, l'immagine del paletto per le regole, le scenette, i canti, il fiore della preghiera e l'adorazione, il materiale.
+>
+> [**Il quadernino dei ragazzi**](<Ritiri/Prima Comunione — Il quadernino dei ragazzi.md>) — che cosa i bambini scrivono, pagina per pagina.
+>
+> Qui restano la scansione dei tre giorni e tutto ciò che serve per organizzarlo.
 
 ### La giornata tipo
 
 **Venerdì**
+
 - 17:00 arrivo, merenda, sistemazione, gioco rompighiaccio
 - 18:00 inizio attività
 - 19:30 cena
@@ -127,6 +126,7 @@ Questa formulazione va mantenuta così com'è nella comunicazione ai genitori: �
 - 21:30 buonanotte
 
 **Sabato**
+
 - 7:30 sveglia e colazione
 - 8:15 attività
 - 12:30 pranzo, poi gioco libero (ruba bandiera, palla prigioniera) e preparazione delle scenette
@@ -138,71 +138,31 @@ Questa formulazione va mantenuta così com'è nella comunicazione ai genitori: �
 - 21:30 buonanotte
 
 **Domenica**
+
 - 7:30 sveglia e colazione
 - 8:15 attività
 - 12:30 pranzo conviviale, con i genitori che portano e mettono in comune
 - 14:30 **Santa Messa** nella chiesa di Trestina
 
-### Il quaderno: il cuore del ritiro
+### Il pernottamento
 
-Il ritiro è costruito attorno a un **quaderno che i bambini compilano a mano**, per dettatura, nell'arco dei tre giorni. Non è un sussidio stampato: è il loro quaderno, scritto con la loro grafia, colorato e decorato da loro.
+È **previsto e consigliato**, per vivere i tre giorni in continuità, ma **resta una scelta della famiglia e non deve ostacolare la partecipazione**. Chi non dorme rientra a casa alla fine delle attività serali, verso le 21:30, e torna la mattina entro le 8:00.
 
-**Come funziona.** Le pagine **dispari** si scrivono sotto dettatura del catechista, curando i colori e le sottolineature. Sulle pagine **pari** si incollano le immagini corrispondenti, fornite in fotocopia. I quaderni vanno **numerati prima** del ritiro, e consegnati il venerdì sera insieme al cartellino con il nome.
+Questa formulazione va mantenuta così com'è nella comunicazione ai genitori: è la ragione per cui nessuno resta fuori.
 
-Il testo dettato è in prima persona. La prima pagina, per esempio, dice:
+### La dettatura, e perché la teniamo
 
-> *In questi giorni abbiamo lasciato le nostre case, le cose da fare (scuola, sport…), i genitori e gli amici e ci siamo **ritirati**, perché vogliamo pensare solo a Gesù che il [data] riceverò nel mio cuore durante la Santa Messa della Prima Comunione.*
+Il ritiro è costruito attorno a un **quaderno che i bambini compilano a mano, per dettatura**. È la scelta più controintuitiva del percorso — sembra la cosa più scolastica che ci sia — e invece è quella che ricordano: scrivere a mano rallenta, obbliga all'attenzione, e produce un oggetto che resta in casa per anni.
 
-**Perché la dettatura.** È la scelta più controintuitiva del ritiro — sembra la cosa più scolastica che ci sia — e invece è quella che i bambini ricordano. Scrivere a mano rallenta, obbliga all'attenzione, e produce un oggetto che resta in casa per anni. Nelle nostre verifiche la «monotonia durante la dettatura» è comparsa tra le cose da migliorare: il punto non è eliminarla, ma **spezzarla** — poche pagine per volta, alternate a canti, scenette, giochi e momenti di preghiera, come fa il programma.
+Nelle nostre verifiche la «monotonia durante la dettatura» è comparsa fra le cose da migliorare. Il punto non è eliminarla ma **spezzarla**: poche pagine per volta, alternate a canti, scenette, giochi e preghiera, come fa il programma.
 
-**Nota:** vale la pena presentare la dettatura ai genitori nella riunione di marzo, come facciamo, per evitare che arrivi come una sorpresa.
+Si presenta ai genitori nella riunione di marzo, per evitare che arrivi come una sorpresa.
 
-### I temi del quaderno
+### Che cosa portano i bambini
 
-Ricostruiti dalla sequenza delle pagine nei programmi degli ultimi anni:
+Astuccio con forbici, colla, colori, penna rossa blu e nera, matite.
 
-- **Il ritiro e il silenzio** — perché ci si ritira, che cosa si sente quando si fa silenzio, le regole e perché rispettarle. Ai bambini si insegna un segno per comunicare senza parlare: **la mano destra sul cuore**, come per proteggerlo dalla troppa confusione.
-- **La casa dove siamo** — una pagina dedicata a Trestina e al luogo che ci ospita
-- **Gesù e Maria, Gesù e il Padre** — il dialogo in cui Gesù chiede un modo per restare con i suoi amici
-- **Gli Apostoli** — presentazione uno per uno, con i loro simboli
-- **L'Ultima Cena e la Messa**
-- **Ricevere bene Gesù** — e per contrasto, riceverlo male
-- **Per una buona confessione** — l'esame di coscienza incollato in fotocopia
-- **Canti e preghiere** — la raccolta finale, da incollare
-
-### Le scenette
-
-Sono lo strumento che alterna e alleggerisce la dettatura, e insieme il modo in cui i contenuti vengono fissati. Il repertorio disponibile in archivio:
-
-**Gesù e Maria — Gesù e il Padre.** Il dialogo iniziale. Gesù è triste perché deve lasciare i suoi amici, confida le sue preoccupazioni alla madre, che gli suggerisce di parlarne con il Padre. Segue il dialogo con Dio, che culmina nell'invenzione dell'Eucaristia: *«Farai una cena con i tuoi amici, prenderai il pane e dirai: questo è il mio corpo. Ti nasconderai in un pane»*. È il testo teologicamente più denso del ritiro ed è a portata di bambini.
-
-**Presentazione degli Apostoli.** Ciascuno si presenta in prima persona — Pietro con le chiavi, e così via — con i rispettivi simboli in fotocopia da incollare.
-
-**Ricevere male Gesù** e **Ricevere bene Gesù.** La seconda si rappresenta **durante la Messa finale** ed è la più curata: dodici bambine in vestina bianca, una catechista, e un allestimento che richiede scotch nero, scopa, sacchi neri, straccio, telo bianco davanti all'altare, cesto con i petali, due ceri, un mazzolino di margherite, la corona di spine, il quaderno della Comunione, pane e cesto di frutta, ciotola d'acqua e spugna.
-
-**Per una buona confessione.** Un dialogo tra un ragazzo e don Simone che percorre i dieci comandamenti trasformandoli in domande concrete. È il testo su cui si costruisce l'esame di coscienza.
-
-**Scenetta dei genitori**, il sabato sera, preparata con il foglio degli Apostoli.
-
-### I canti
-
-Il repertorio del ritiro, da preparare su cartelloni prima dell'arrivo e da incollare in fotocopia sul quaderno:
-
-*Non vedo ma credo* · *Benedicat* · *Davanti al re* · *Nel tuo silenzio* · *Pane del cielo*
-
-Si insegnano anche il **Padre Nostro e il Gloria con i gesti**.
-
-### Il fiore dell'adorazione
-
-Il gesto conclusivo della domenica mattina, fatto **senza i genitori**. Ogni bambino costruisce un fiore con un bastoncino e petali di cartoncino colorato — giallo, rosso, verde, azzurro, viola, bianco — e su ciascun petalo scrive qualcosa. I fiori accompagnano il momento di adorazione.
-
-I petali finiscono poi nel cesto usato durante la Messa finale.
-
-### Materiale del ritiro
-
-Cartellini per i nomi · cartelloni con i testi dei canti · quaderni numerati · fotocopie dei canti e delle immagini · bastoncini, cartoncini colorati e scotch per i fiori · penne · vestiti per le scenette (li porta Promano) · corona di spine (Promano).
-
-**Materiale che i bambini portano:** astuccio con forbici, colla, colori, penna rossa, blu e nera, matite. Per la notte: pigiama, **coprimaterasso**, coperte o sacco a pelo, cuscino, asciugamano, spazzolino, dentifricio.
+Per la notte: pigiama, **coprimaterasso**, coperte o sacco a pelo, cuscino, asciugamano, spazzolino, dentifricio.
 
 ### Organizzazione
 
@@ -227,7 +187,7 @@ Si distribuisce e si **incolla nel quaderno** il foglio con le domande, e si **l
 
 Il testo che usiamo struttura la confessione in cinque passaggi — esame di coscienza, pentimento, confessione e assoluzione, proposito, penitenza — e poi percorre i dieci comandamenti traducendoli in domande alla portata di un bambino di nove anni. Sul quinto comandamento, per esempio: *«Non si uccide solo il corpo, ma si può uccidere anche il cuore»*.
 
-Vale la pena notare due cose sul modo in cui è scritto. È **concreto** — «tieni le mani giunte?», «hai fatto piangere i genitori?» — e non moralistico: il pentimento è presentato come dispiacere di aver fatto soffrire qualcuno, non come paura del castigo.
+Due cose sul modo in cui è scritto. È **concreto** — «tieni le mani giunte?», «hai fatto piangere i genitori?» — e non moralistico: il pentimento è presentato come dispiacere di aver fatto soffrire qualcuno, non come paura del castigo.
 
 ### Le prove della Comunione
 

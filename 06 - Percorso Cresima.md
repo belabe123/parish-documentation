@@ -12,7 +12,7 @@ La preparazione alla Cresima riguarda i ragazzi di **prima media** e chiude il c
 
 Va detto subito, perché condiziona la lettura di tutto il documento: **il materiale della Cresima è più povero e più vecchio di quello della Prima Comunione**. L'ultima scaletta completa in archivio è del 2024, e le scalette del 2020, 2023 e 2024 sono in larga parte identiche tra loro — segno che l'impianto è stato ripreso di anno in anno senza essere ripensato, mentre nello stesso periodo il percorso della Comunione si arricchiva del ritiro residenziale, del quaderno e della cena ebraica.
 
-Nel 2026 questo squilibrio si corregge: **anche la Cresima ha il suo ritiro di tre giorni**. È la novità più importante degli ultimi anni ed è anche il motivo per cui questo documento non può limitarsi a fotografare l'esistente. Il capitolo 6 prova quindi a distinguere con onestà **ciò che è consolidato, ciò che è deciso e ciò che è ancora da progettare**.
+Nel 2026 lo squilibrio si corregge: **anche la Cresima ha il suo ritiro di tre giorni**. È la novità più importante degli ultimi anni, ed è il motivo per cui il capitolo 6 distingue **ciò che è consolidato, ciò che è deciso e ciò che è ancora da progettare**.
 
 ---
 
@@ -136,7 +136,7 @@ L'incontro è costruito interamente su **testimonianze**, ciascuna abbinata a un
 
 **Quaderno:** pagina 41.
 
-**Nota.** L'ultima testimonianza è anche il **ponte verso il dopo-Cresima**: chi la porta non è un adulto ma un coetaneo di poco più grande, e quello che racconta è il gruppo a cui i ragazzi sono invitati a partecipare da settembre. Vale la pena curarla con attenzione.
+**Nota.** L'ultima testimonianza è anche il **ponte verso il dopo-Cresima**: chi la porta non è un adulto ma un coetaneo di poco più grande, e quello che racconta è il gruppo a cui i ragazzi sono invitati a partecipare da settembre. Va curata con attenzione.
 
 ### Incontro 5 — Esame di coscienza e prove
 
@@ -170,21 +170,17 @@ La macchina organizzativa è **comune a quella della Comunione** e viene avviata
 
 ### Cosa è da progettare
 
-Il **contenuto**. Il ritiro della Comunione ha alle spalle anni di sedimentazione — il quaderno, le scenette, i canti, il fiore dell'adorazione. Quello della Cresima parte da zero, e non basta trasporvi lo stesso impianto: quindicenni e novenni non si tengono con le stesse cose.
+Il **contenuto**. Il ritiro della Comunione ha alle spalle anni di sedimentazione — il quaderno, le scenette, i canti, il fiore dell'adorazione. Quello della Cresima parte da zero, e non basta trasporvi lo stesso impianto: dodicenni e novenni non si tengono con le stesse cose.
 
-Alcune indicazioni che vengono dal materiale esistente:
+Dal materiale esistente vengono cinque indicazioni.
 
-**I cinque incontri possono diventare l'ossatura del ritiro.** I temi ci sono già ed è una sequenza che funziona. Tre giorni residenziali permettono di darle il respiro che cinque sabati pomeriggio non consentono — in particolare all'incontro sulla liturgia, i cui gesti guadagnano moltissimo se fatti con calma.
+- **I cinque incontri possono diventare l'ossatura del ritiro.** I temi ci sono già e la sequenza funziona. Tre giorni danno il respiro che cinque sabati pomeriggio non consentono — soprattutto all'incontro sulla liturgia, i cui gesti guadagnano moltissimo se fatti con calma
+- **Le testimonianze sono lo strumento giusto per questa età**, e il ritiro permette di ospitarne più di una, con il tempo per le domande. I ragazzi le preparano in anticipo, come già si fa nel catechismo ordinario
+- **L'impegno personale merita più di venti minuti.** Il gesto del cuore piegato — impegno da una parte, rinuncia dall'altra — oggi è compresso in fondo a un incontro. In un ritiro può diventare il filo dei tre giorni
+- **Serve un momento forte il sabato sera**, come nel ritiro della Comunione
+- **Il servizio verso i più piccoli** è il tema portante del loro anno e non compare in nessuna scaletta di Cresima. Il ritiro è l'occasione per colmare la distanza
 
-**Le testimonianze sono lo strumento giusto per questa età**, e il ritiro è la sede naturale per ospitarne più di una, con il tempo per le domande. I ragazzi possono preparare le domande in anticipo, come già facciamo nel catechismo ordinario.
-
-**L'impegno personale merita più di venti minuti.** Il gesto del cuore piegato — impegno da una parte, rinuncia dall'altra — è forte ma oggi è compresso in fondo a un incontro. In un ritiro può diventare il filo dei tre giorni.
-
-**Serve un momento forte il sabato sera**, come nel ritiro della Comunione.
-
-**Il servizio verso i più piccoli** è il tema portante del loro anno e non compare in nessuna delle scalette di Cresima. È l'occasione per colmare questa distanza.
-
-Un'ultima considerazione. Con l'arrivo del ritiro, i cinque incontri del sabato non possono restare identici: alcuni contenuti si sposteranno dentro il ritiro e gli incontri andranno alleggeriti. Vale la pena decidere questa ripartizione **prima**, nella riunione di inizio marzo, e non scoprirla facendo due volte le stesse cose.
+Con l'arrivo del ritiro i cinque incontri del sabato non possono restare identici: alcuni contenuti si sposteranno dentro il ritiro e gli incontri andranno alleggeriti. La ripartizione si decide **prima**, nella riunione di inizio marzo: altrimenti la si scopre facendo due volte le stesse cose.
 
 ---
 
@@ -194,7 +190,7 @@ Un'ultima considerazione. Con l'arrivo del ritiro, i cinque incontri del sabato 
 
 Si tengono una **sera infrasettimanale** in chiesa, di norma alle 21:00, nei giorni precedenti la celebrazione. Accoglienza, poi confessioni.
 
-Diversamente dalla Comunione, qui non c'è un gesto simbolico che le accompagna. È una differenza che vale la pena notare: con i più piccoli bruciamo i peccati scritti, con i più grandi non facciamo nulla. Non è detto che serva, ma è una domanda legittima da porsi.
+Diversamente dalla Comunione, qui non c'è un gesto simbolico che le accompagna. Con i più piccoli bruciamo i peccati scritti, con i più grandi non facciamo nulla. Non è detto che serva, ma è una domanda legittima.
 
 ### La celebrazione
 
@@ -220,7 +216,7 @@ Diversamente dalla Comunione, qui non c'è un gesto simbolico che le accompagna.
 
 È la parte del percorso a cui teniamo di più e quella che meno riesce, ovunque.
 
-Alla vigilia della Cresima si consegna ai genitori una **lettera degli animatori** che invita i ragazzi al gruppo del dopo-Cresima, con incontri settimanali nelle sale parrocchiali. La lettera è scritta dai ragazzi stessi, ed è la cosa migliore che abbiamo su questo fronte. Vale la pena rileggerne il tono:
+Alla vigilia della Cresima si consegna ai genitori una **lettera degli animatori** che invita i ragazzi al gruppo del dopo-Cresima, con incontri settimanali nelle sale parrocchiali. La lettera è scritta dai ragazzi stessi, ed è la cosa migliore che abbiamo su questo fronte. Il tono merita di essere riletto:
 
 > *Noi animatori siamo dei ragazzi della parrocchia che, dopo aver terminato il nostro percorso di catechismo e i gruppi dopo-Cresima, abbiamo deciso di donare il nostro tempo ai ragazzi più piccoli, per condividere con loro la gioia di conoscere Gesù.*
 

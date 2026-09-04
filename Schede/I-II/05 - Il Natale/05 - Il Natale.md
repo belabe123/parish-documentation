@@ -79,7 +79,7 @@ Trasmettere ai bambini che:
 | **La seconda** | **Dice una frase in prima persona** quando porta il suo personaggio — *«io sono un pastore, dormivo fuori con le pecore»*. Chi se la sente legge un pezzo del racconto |
 | **Insieme** | Racconto, capanna, momento di silenzio, canto, merenda |
 
-**Variante di annata.** Non c'è, perché non c'è nemmeno l'originale. Il materiale di Natale in archivio — che è nato per altri gruppi — può fornirla: la **scenetta del presepe della tazza rotta**, il **presepe da costruire** del 2021-2022, e *Allarme nel presepe* del 2024-2025, che è di III-IV ma i cui personaggi da ritagliare si possono riusare. Vedi [`Schede/Tempi forti`](<../../Tempi forti>).
+**Variante di annata.** Non c'è, perché non c'è nemmeno l'originale. Il materiale di Natale in archivio — che è nato per altri gruppi — può fornirla: la **scenetta del presepe della tazza rotta**, il **presepe da costruire** del 2021-2022, e *Allarme nel presepe* del 2024-2025, che è di III-IV ma i cui personaggi da ritagliare si possono riusare. Vedi la scheda [Natale](<../../Tempi forti/03 - Natale/03 - Natale.md>).
 
 ---
 
