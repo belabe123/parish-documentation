@@ -310,16 +310,15 @@ def scrivi_pagina(pagina, pagine, css, js):
   </aside>
   <main id="main"><div class="colonna">
     <article id="doc" tabindex="-1">
-      <div id="crumb">{gruppo}</div>
+      <div class="testa-doc">
+        <div id="crumb">{gruppo}</div>
+        <div class="stampa-mini">{stampa}</div>
+      </div>
       <h1 id="h1">{titolo}</h1>
       <div id="body">{corpo}</div>
       <div id="foot">
         <p>Hai notato qualcosa che non torna in questa pagina?</p>
         <button onclick="openSeg('','')">Segnala qualcosa</button>
-        <p class="anche">Ti serve su carta?</p>
-        <div class="azioni-stampa">
-          <button type="button" id="stampa">Stampa o salva in PDF</button>{fascicolo}
-        </div>
       </div>
       <div class="pie-stampa">{sito} · {indirizzo}</div>
     </article>
@@ -333,13 +332,16 @@ def scrivi_pagina(pagina, pagine, css, js):
 <script>{js}</script>
 </body></html>"""
 
-    fascicolo = ""
+    ICONA = ('<svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">'
+             '<path d="M4 2h8v3H4zM3 6h10a1 1 0 0 1 1 1v4h-2v-2H4v2H2V7a1 1 0 0 1 1-1z"/>'
+             '<path d="M5 10h6v4H5z"/></svg>')
+    stampa = ('<button type="button" id="stampa">%sStampa</button>' % ICONA)
     if pagina.get("allegati"):
-        fascicolo = ('<a class="bottone" href="%s">Stampa con gli allegati <span>(%d)</span></a>'
-                     % (link(pagina["url"] + "stampa/"), len(pagina["allegati"])))
+        stampa += ('<a href="%s">con gli allegati <span>(%d)</span></a>'
+                   % (link(pagina["url"] + "stampa/"), len(pagina["allegati"])))
 
     return modello.format(
-        fascicolo=fascicolo,
+        stampa=stampa,
         indirizzo=html.escape(SITO_PUBBLICO + link(pagina["url"])),
         home=link(""),
         base_js=json.dumps(BASE),

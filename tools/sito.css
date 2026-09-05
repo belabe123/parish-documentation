@@ -287,19 +287,30 @@ h2:hover .anch, .anch:focus-visible{opacity:1}
   box-shadow:0 .15rem .6rem rgba(22,19,15,.12); color:var(--ink);
 }
 
-/* azioni di stampa in fondo alla pagina */
-#foot .anche{margin:1.4rem 0 .5rem; color:var(--ink3); font-size:.95rem}
-.azioni-stampa{display:flex; gap:.6rem; flex-wrap:wrap}
-.azioni-stampa button, .azioni-stampa .bottone{
-  font:600 .95rem/1 inherit; color:var(--ink); background:#fff;
-  border:1px solid var(--line-ui); border-radius:.5rem;
-  padding:.7rem 1rem; min-height:2.75rem; cursor:pointer;
-  text-decoration:none; display:inline-flex; align-items:center; gap:.35rem;
+/* Azioni di stampa: stanno in cima, sulla riga della briciola, e devono
+   pesare poco — è un comando che si usa una volta ogni tanto, non il motivo
+   per cui si è aperta la pagina. Piccole a vedersi, ma con abbastanza
+   spaziatura interna da restare comode da toccare. */
+.testa-doc{
+  display:flex; align-items:baseline; justify-content:space-between;
+  gap:.75rem 1.25rem; flex-wrap:wrap; margin-bottom:.5rem;
 }
-.azioni-stampa button:hover, .azioni-stampa .bottone:hover{
-  background:var(--acc-soft); border-color:var(--acc); color:var(--acc-scuro);
+.testa-doc #crumb{margin-bottom:0}
+
+.stampa-mini{display:flex; align-items:center; gap:.15rem; flex-wrap:wrap}
+.stampa-mini button, .stampa-mini a{
+  display:inline-flex; align-items:center; gap:.3rem;
+  font:400 .8125rem/1 inherit; color:var(--ink3);
+  background:none; border:0; border-radius:.35rem;
+  padding:.45rem .5rem; min-height:2.25rem; cursor:pointer;
+  text-decoration:none; white-space:nowrap;
 }
-.azioni-stampa .bottone span{color:var(--ink3); font-weight:400}
+.stampa-mini button:hover, .stampa-mini a:hover{
+  color:var(--acc); background:var(--acc-soft);
+}
+.stampa-mini a::before{content:"·"; margin-right:.35rem; color:var(--line-ui)}
+.stampa-mini a span{color:var(--line-ui)}
+.stampa-mini svg{width:.9rem; height:.9rem; fill:currentColor; flex:none}
 
 /* la riga che compare solo sulla carta */
 .pie-stampa{display:none}
@@ -360,6 +371,7 @@ body.fascicolo{background:#fff}
   .nav a{padding:.75rem 1.25rem}
   .nav .sez{padding:.6rem 1.25rem .6rem .5rem}
   #testo-cmd button{min-width:2.75rem; min-height:2.75rem}
+  .stampa-mini button, .stampa-mini a{min-height:2.75rem; padding:.6rem .55rem}
   #burger{min-width:2.75rem; min-height:2.75rem}
   #fab{right:.75rem; bottom:.75rem; max-width:calc(100vw - 1.5rem)}
   #fab .t2{max-width:11rem}
@@ -384,7 +396,7 @@ body.fascicolo{background:#fff}
 
 @media print{
   #side,#fab,#bub,#burger,#foot,.seg,.anch,#salta,#testo-cmd,
-  #chiudi-menu,.barra-stampa{display:none !important}
+  #chiudi-menu,.barra-stampa,.stampa-mini{display:none !important}
 
   /* ogni allegato comincia su un foglio nuovo */
   .pezzo.salto{break-before:page; page-break-before:always; margin:0; padding:0; border:0}
