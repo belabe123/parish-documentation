@@ -294,6 +294,7 @@ def scrivi_pagina(pagina, pagine, css, js):
 <button id="burger" aria-label="Apri il menu" aria-controls="side" aria-expanded="false">&#9776;</button>
 <div id="wrap">
   <aside id="side">
+    <button id="chiudi-menu" type="button" aria-label="Chiudi il menu">&times;</button>
     <div id="brand"><a href="{home}"><b>{sito}</b><span>{sotto}</span></a></div>
     <label for="q" class="sr">Cerca nel testo del sito</label>
     <input id="q" type="search" placeholder="Cerca nel testo..." autocomplete="off">

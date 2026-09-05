@@ -173,6 +173,23 @@
 
   function hideBub() { el('bub').classList.remove('on'); }
 
+  /* ---------------- il menu laterale sul telefono ---------------- */
+
+  /* Un posto solo da cui si apre e si chiude, così lo stato del pannello,
+     quello del velo dietro e quello che leggono i lettori di schermo non
+     possono andare fuori sincrono. */
+  function menuAperto() { return el('side').classList.contains('on'); }
+
+  function menu(apri) {
+    if (apri === undefined) apri = !menuAperto();
+    el('side').classList.toggle('on', apri);
+    document.body.classList.toggle('menu-aperto', apri);
+    // anche sull'elemento radice: su alcuni browser è lui a scorrere,
+    // e senza questo la pagina continua a scorrere dietro il menu
+    document.documentElement.classList.toggle('menu-aperto', apri);
+    el('burger').setAttribute('aria-expanded', apri ? 'true' : 'false');
+  }
+
   function leggiSelezione() {
     var sel = window.getSelection();
     if (!sel || sel.isCollapsed) return null;
@@ -278,10 +295,29 @@
     el('t-piu').onclick  = function () { applicaScala(iScala + 1, true); };
 
     el('q').addEventListener('input', function (e) { cerca(e.target.value); });
-    el('burger').onclick = function () { el('side').classList.toggle('on'); };
+    el('burger').onclick = function (e) { e.stopPropagation(); menu(); };
+    el('chiudi-menu').onclick = function () { menu(false); el('burger').focus(); };
+
+    /* Chiudere il menu deve essere facile quanto aprirlo: si chiude
+       toccando una voce, toccando fuori, con Esc, e allargando la finestra.
+       Senza queste quattro cose il pannello resta aperto sopra il testo. */
+    el('nav').addEventListener('click', function (e) {
+      if (e.target.closest('a')) menu(false);
+    });
+    document.addEventListener('click', function (e) {
+      if (!menuAperto()) return;
+      if (el('side').contains(e.target) || el('burger').contains(e.target)) return;
+      menu(false);
+    });
+    window.addEventListener('resize', function () {
+      if (window.innerWidth > 900 && menuAperto()) menu(false);
+    });
     el('ov').onclick = function (e) { if (e.target === el('ov')) closeSeg(); };
     document.addEventListener('keydown', function (e) {
-      if (e.key === 'Escape') { closeSeg(); hideBub(); }
+      if (e.key === 'Escape') {
+        closeSeg(); hideBub();
+        if (menuAperto()) { menu(false); el('burger').focus(); }
+      }
     });
 
     el('fab').onclick = function () { openSeg('', ''); };

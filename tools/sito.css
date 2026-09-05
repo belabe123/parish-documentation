@@ -270,6 +270,16 @@ h2:hover .anch, .anch:focus-visible{opacity:1}
 .acts button.pri{background:var(--acc); color:#fff; border-color:var(--acc)}
 .acts button.pri:hover{background:var(--acc-scuro)}
 
+/* chiusura del menu: sta dentro il pannello, perché da aperto il pannello
+   copre il pulsante che lo ha aperto */
+#chiudi-menu{
+  display:none; position:absolute; top:.5rem; right:.5rem; z-index:1;
+  width:2.75rem; height:2.75rem; line-height:1;
+  background:#fff; border:1px solid var(--line-ui); border-radius:.5rem;
+  font-size:1.5rem; cursor:pointer; color:var(--ink);
+}
+#chiudi-menu:hover{background:var(--acc-soft); border-color:var(--acc)}
+
 #burger{
   display:none; position:fixed; top:.75rem; left:.75rem; z-index:40;
   background:#fff; border:2px solid var(--line-ui); border-radius:.5rem;
@@ -289,6 +299,18 @@ h2:hover .anch, .anch:focus-visible{opacity:1}
     width:min(21rem, 88vw); flex-basis:min(21rem, 88vw);
   }
   #side.on{transform:none}
+  #side{position:fixed}
+  #chiudi-menu{display:block}
+  /* il titolo lascia posto al pulsante di chiusura */
+  #brand{padding-right:3.5rem}
+
+  /* velo dietro il menu aperto: oscura la pagina e intercetta il tocco,
+     così toccare fuori dal menu lo chiude */
+  html.menu-aperto, body.menu-aperto{overflow:hidden}
+  body.menu-aperto::before{
+    content:''; position:fixed; inset:0; z-index:40;
+    background:rgba(22,19,15,.45);
+  }
   #main{padding:0 1.1rem}
   #doc{padding:4rem 0 6rem}
   h1{font-size:1.75rem}
