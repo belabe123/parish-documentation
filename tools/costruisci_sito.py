@@ -93,7 +93,7 @@ CARTELLE_ESCLUSE = {".git", ".github", "_site", "tools", "node_modules"}
 GRUPPI = [
     ("Il manuale",                      lambda p: p.startswith("01 - ")),
     ("I percorsi",                      lambda p: re.match(r"0[2-6] - ", p) is not None),
-    ("Proposte da discutere",           lambda p: p.startswith("Proposte/")),
+    ("Come ci siamo arrivati",          lambda p: p.startswith("Proposte/")),
     ("I ritiri",                        lambda p: p.startswith("Ritiri/")),
     ("Schede · I e II elementare",      lambda p: p.startswith("Schede/I-II/")),
     ("Schede · III e IV elementare",    lambda p: p.startswith("Schede/III-IV/")),

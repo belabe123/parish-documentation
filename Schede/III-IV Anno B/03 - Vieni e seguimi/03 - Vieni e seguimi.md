@@ -4,7 +4,7 @@
 **Numero:** 03
 **Tempo liturgico:** ordinario
 
-> **Tappa 3 — «Ti affida qualcosa».** Nell'anno A la stessa tappa è la parabola dei talenti.
+> **Tappa 3 — «Ti affida qualcosa»**, anno B. Nell'anno A la stessa tappa è [la parabola dei talenti](<../../III-IV/04 - La parabola dei talenti/04 - La parabola dei talenti.md>).
 
 ---
 
@@ -131,4 +131,4 @@ Nella cartella di questo incontro:
 
 ---
 
-*Scheda nuova, scritta per la proposta dell'anno B. Il vangelo era già in archivio: è una delle tre storie dell'allegato `Tre vangeli della fiducia` dell'incontro 06, dove però serviva a una scenetta di pochi minuti. Qui diventa l'incontro intero. L'attività della rete non è mai stata fatta.*
+*Scheda nuova, scritta per l'anno B del percorso. Il vangelo era già in archivio: è una delle tre storie dell'allegato `Tre vangeli della fiducia` dell'incontro 06, dove però serviva a una scenetta di pochi minuti. Qui diventa l'incontro intero. L'attività della rete non è mai stata fatta.*

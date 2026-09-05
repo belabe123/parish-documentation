@@ -4,7 +4,7 @@
 **Numero:** 05
 **Tempo liturgico:** ordinario
 
-> **Tappa 4 — «Si accorge di te»**, seconda parte. È l'incontro sulla preghiera dell'anno B: la preghiera come domanda, non come formula.
+> **L'incontro di Quaresima dell'anno B.** Sta fuori dalle nove tappe, al posto che nell'anno A tiene [Gesù si ritira per pregare](<../../III-IV/11 - Gesù si ritira per pregare/11 - Gesù si ritira per pregare.md>). La preghiera come domanda, non come formula.
 
 ---
 
@@ -139,4 +139,4 @@ Nella cartella di questo incontro:
 
 ---
 
-*Scheda nuova, scritta per la proposta dell'anno B. Bartimeo non compare in nessuna annata dell'archivio. Il corridoio e il momento scritto non sono mai stati fatti: il secondo riprende però la forma del «deserto», che in questo gruppo è collaudata.*
+*Scheda nuova, scritta per l'anno B del percorso. Bartimeo non compare in nessuna annata dell'archivio. Il corridoio e il momento scritto non sono mai stati fatti: il secondo riprende però la forma del «deserto», che in questo gruppo è collaudata.*

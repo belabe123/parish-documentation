@@ -4,7 +4,7 @@
 **Numero:** 06
 **Tempo liturgico:** ordinario
 
-> **Tappa 5 — «Ci si può fidare».** Nell'anno A la stessa tappa è la pecora smarrita.
+> **Tappa 7 — «Ci si può fidare»**, anno B. Nell'anno A la stessa tappa è [la pecora smarrita](<../../III-IV/07 - Gesù non ti lascia solo/07 - Gesù non ti lascia solo.md>).
 
 ---
 
@@ -143,4 +143,4 @@ Nella cartella di questo incontro:
 
 ---
 
-*Scheda nuova, scritta per la proposta dell'anno B. La tempesta sedata non compare come incontro in nessuna annata dell'archivio. L'idea della barca delimitata sul pavimento è ripresa dalla variante proposta per l'incontro «Vieni e seguimi».*
+*Scheda nuova, scritta per l'anno B del percorso. La tempesta sedata non compare come incontro in nessuna annata dell'archivio. L'idea della barca delimitata sul pavimento è ripresa dalla variante proposta per l'incontro «Vieni e seguimi».*

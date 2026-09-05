@@ -4,9 +4,9 @@
 **Numero:** 14
 **Tempo liturgico:** Pasqua
 
-> **È l'incontro che chiude l'anno per la terza**, in aprile, quando la quarta si è già staccata per il percorso di Prima Comunione. Nella proposta dei [due percorsi alternati](<../../../Proposte/Due percorsi alternati per III e IV.md>) prende il posto di *Gesù pane della vita*, che passa alla coda della quarta.
+> **È l'incontro che chiude l'anno per la terza**, in aprile, quando la quarta si è già staccata per il percorso di Prima Comunione. Si fa in tutti e due gli anni, A e B.
 >
-> **È il punto meno sicuro della proposta**, ed è al numero 3 delle cose da decidere: si può anche lasciare alla terza *Gesù pane della vita* e non usare questo incontro.
+> *Gesù pane della vita* non è più la chiusura di III e IV: apre la coda sacramentale della quarta.
 
 ---
 
@@ -89,7 +89,7 @@ Trasmettere ai bambini che:
 >
 > *Gesù pane della vita* dice la cosa: *io sono il pane*. Emmaus la fa succedere: due che non capivano riconoscono qualcuno da un gesto, e il gesto è quello.
 >
-> Se la terza chiude con Emmaus, l'anno dopo in quarta la Comunione arriva su un ricordo fisico — quel pane spezzato in quella sala. Se chiude con *pane della vita*, arriva su una frase già sentita. La proposta sceglie il primo, ma è una scelta discutibile e va discussa.
+> Chiudendo con Emmaus, l'anno dopo in quarta la Comunione arriva su un ricordo fisico — quel pane spezzato in quella sala — invece che su una frase già sentita. È il motivo della scelta.
 
 ---
 
@@ -145,4 +145,4 @@ Nella cartella di questo incontro:
 
 ---
 
-*Scheda nuova. Emmaus non compare in nessuna annata dell'archivio di questo gruppo. La camminata e il pane spezzato non sono mai stati fatti: il gesto del pane riprende però la logica della cena ebraica del Giovedì Santo, che in parrocchia è collaudata da anni.*
+*Scheda nuova, entrata nel percorso con la rotazione del 2026. Emmaus non compare in nessuna annata dell'archivio di questo gruppo. La camminata e il pane spezzato non sono mai stati fatti: il gesto del pane riprende però la logica della cena ebraica del Giovedì Santo, che in parrocchia è collaudata da anni.*

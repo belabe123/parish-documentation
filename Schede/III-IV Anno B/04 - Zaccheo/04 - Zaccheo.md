@@ -4,7 +4,7 @@
 **Numero:** 04
 **Tempo liturgico:** ordinario
 
-> **Tappa 4 — «Si accorge di te».** Nell'anno A la stessa tappa è la parabola del seminatore.
+> **Tappa 5 — «Si accorge di te»**, anno B. Nell'anno A la stessa tappa è [la parabola del seminatore](<../../III-IV/05 - La parabola del seminatore/05 - La parabola del seminatore.md>).
 > Qui trova casa l'incontro d'archivio *Io valgo* (2025-2026), finora fuori da ogni percorso.
 
 ---
@@ -140,4 +140,4 @@ Nella cartella di questo incontro:
 
 ---
 
-*Scheda nuova, scritta per la proposta dell'anno B. Zaccheo non compare in nessuna annata dell'archivio. L'attività del cartellone a due facce riprende l'idea dell'incontro d'archivio* Io valgo *(2025-2026), che finora non aveva collocazione in nessun percorso.*
+*Scheda nuova, scritta per l'anno B del percorso. Zaccheo non compare in nessuna annata dell'archivio. L'attività del cartellone a due facce riprende l'idea dell'incontro d'archivio* Io valgo *(2025-2026), che finora non aveva collocazione in nessun percorso.*

@@ -18,9 +18,9 @@ Le storie della Bibbia raccontate come i «nonni di Gesù», gli incontri mensil
 
 ### [03 — Percorso III e IV elementare](<03 - Percorso III-IV elementare.md>)
 
-«Io e il mio amico Gesù»: la conoscenza di Gesù attraverso le parabole, dalla fiducia all'Eucaristia. Il filo del ritratto, il quadernino, i dodici incontri e le attività che hanno funzionato meglio.
+«Io e il mio amico Gesù»: la conoscenza di Gesù attraverso le parabole e i suoi incontri. **Dal 2026 il percorso è doppio e si alterna di anno in anno** — anno A «Gesù racconta», anno B «Gesù incontra» — con nove tappe uguali nei due anni.
 
-Sul problema della terza e della quarta insieme c'è una proposta aperta: [due percorsi alternati](<Proposte/Due percorsi alternati per III e IV.md>).
+Come ci si è arrivati è raccontato in [Due percorsi alternati](<Proposte/Due percorsi alternati per III e IV.md>).
 
 ### [04 — Percorso V elementare e I media](<04 - Percorso V-I media.md>)
 
@@ -50,13 +50,13 @@ Una cartella per incontro, dentro `Schede/`. Modello vuoto: [`_Modello scheda.md
 
 [Mi presento](<Schede/III-IV/01 - Mi presento/01 - Mi presento.md>) · [La storia della salvezza](<Schede/III-IV/02 - La storia della salvezza/02 - La storia della salvezza.md>) · [Dio parla agli uomini](<Schede/III-IV/03 - Dio parla agli uomini/03 - Dio parla agli uomini.md>) · [La parabola dei talenti](<Schede/III-IV/04 - La parabola dei talenti/04 - La parabola dei talenti.md>) · [La parabola del seminatore](<Schede/III-IV/05 - La parabola del seminatore/05 - La parabola del seminatore.md>) · [Di Gesù ci si può fidare](<Schede/III-IV/06 - Di Gesù ci si può fidare/06 - Di Gesù ci si può fidare.md>) · [Gesù non ti lascia solo](<Schede/III-IV/07 - Gesù non ti lascia solo/07 - Gesù non ti lascia solo.md>) · [Il comandamento dell'amore](<Schede/III-IV/08 - Il comandamento dell'amore/08 - Il comandamento dell'amore.md>) · [Il buon samaritano](<Schede/III-IV/09 - Il buon samaritano/09 - Il buon samaritano.md>) · [Gesù non ti giudica](<Schede/III-IV/10 - Gesù non ti giudica/10 - Gesù non ti giudica.md>) · [Gesù si ritira per pregare](<Schede/III-IV/11 - Gesù si ritira per pregare/11 - Gesù si ritira per pregare.md>) · [Gesù pane della vita](<Schede/III-IV/12 - Gesù pane della vita/12 - Gesù pane della vita.md>)
 
-Fuori dai dodici: [Il padre misericordioso](<Schede/III-IV/13 - Il padre misericordioso/13 - Il padre misericordioso.md>) · [I discepoli di Emmaus](<Schede/III-IV/14 - I discepoli di Emmaus/14 - I discepoli di Emmaus.md>)
+Aggiunte con la rotazione del 2026: [Il padre misericordioso](<Schede/III-IV/13 - Il padre misericordioso/13 - Il padre misericordioso.md>) · [I discepoli di Emmaus](<Schede/III-IV/14 - I discepoli di Emmaus/14 - I discepoli di Emmaus.md>) · [Il granello di senape e il lievito](<Schede/III-IV/15 - Il granello di senape e il lievito/15 - Il granello di senape e il lievito.md>) · [Il tesoro nel campo](<Schede/III-IV/16 - Il tesoro nel campo/16 - Il tesoro nel campo.md>)
 
 ### [III e IV elementare — anno B](<Schede/III-IV Anno B>)
 
-Gli incontri dell'anno B della proposta [due percorsi alternati](<Proposte/Due percorsi alternati per III e IV.md>), **non ancora adottata**. Si reggono anche da soli: [l'indice dell'anno](<Schede/III-IV Anno B/00 - Indice dell'anno B.md>) dice quali sono e in che ordine.
+Gli incontri dell'**anno B**, «Gesù incontra», in vigore negli anni dispari. [L'indice dell'anno](<Schede/III-IV Anno B/00 - Indice dell'anno B.md>) dice quali sono e in che ordine.
 
-[Vieni e seguimi](<Schede/III-IV Anno B/03 - Vieni e seguimi/03 - Vieni e seguimi.md>) · [Zaccheo](<Schede/III-IV Anno B/04 - Zaccheo/04 - Zaccheo.md>) · [Bartimeo](<Schede/III-IV Anno B/05 - Bartimeo/05 - Bartimeo.md>) · [La tempesta sedata](<Schede/III-IV Anno B/06 - La tempesta sedata/06 - La tempesta sedata.md>) · [La lavanda dei piedi](<Schede/III-IV Anno B/08 - La lavanda dei piedi/08 - La lavanda dei piedi.md>)
+[Vieni e seguimi](<Schede/III-IV Anno B/03 - Vieni e seguimi/03 - Vieni e seguimi.md>) · [La moltiplicazione dei pani](<Schede/III-IV Anno B/04 - La moltiplicazione dei pani/04 - La moltiplicazione dei pani.md>) · [Zaccheo](<Schede/III-IV Anno B/05 - Zaccheo/05 - Zaccheo.md>) · [Le nozze di Cana](<Schede/III-IV Anno B/06 - Le nozze di Cana/06 - Le nozze di Cana.md>) · [Bartimeo](<Schede/III-IV Anno B/10 - Bartimeo/10 - Bartimeo.md>) · [La tempesta sedata](<Schede/III-IV Anno B/07 - La tempesta sedata/07 - La tempesta sedata.md>) · [La lavanda dei piedi](<Schede/III-IV Anno B/09 - La lavanda dei piedi/09 - La lavanda dei piedi.md>)
 
 ### [V elementare e I media](<Schede/V-I media>)
 

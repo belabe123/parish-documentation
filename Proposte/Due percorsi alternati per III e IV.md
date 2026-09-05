@@ -1,6 +1,8 @@
 # Due percorsi alternati per III e IV elementare
 
-*Proposta da discutere in équipe. Non è ancora la prassi: è un'ipotesi di lavoro messa per iscritto perché si possa criticare pezzo per pezzo.*
+> **Approvata dall'équipe nel 2026, e in vigore da settembre.** Questo documento resta come memoria di come ci si è arrivati: l'obiezione che c'era, perché non teneva più, e che cosa la rotazione costa. La prassi da seguire è nel [percorso di III e IV](<../03 - Percorso III-IV elementare.md>), che è stato riscritto di conseguenza.
+>
+> Rispetto a quanto scritto qui, l'équipe ha deciso una cosa in più: invece di perdere le nozze di Cana e la moltiplicazione dei pani, **le tappe sono passate da sette a nove**, e i due testi hanno un incontro loro. Servono quattro schede nuove, elencate nel capitolo 8 del percorso.
 
 Documento complementare a [Il percorso di III e IV elementare](<../03 - Percorso III-IV elementare.md>)
 

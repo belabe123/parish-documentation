@@ -167,9 +167,9 @@ L'inventario completo, con i collegamenti ai file, è nel documento di lavoro ch
 
 ## 8. Cosa manca
 
-**Il Natale non ha una scheda, ed è l'unico buco vero del percorso.** Il calendario prevede l'incontro di dicembre come «preparazione al Natale», ma in archivio non c'è niente per questo gruppo. Il materiale di Natale che esiste — *Allarme nel presepe*, *Natale 2022*, la *scenetta del presepe della tazza rotta*, il *presepe da costruire* — è nato per III-IV o per la parrocchia intera. Va scritta da zero, o adattata.
+**Le sei schede sono scritte**, e [01 - Dio ha creato il mondo](<Schede/I-II/01 - Dio ha creato il mondo/01 - Dio ha creato il mondo.md>) resta la più curata di tutto l'archivio: è il modello a cui guardare quando se ne rivede un'altra.
 
-**Nessuna scheda è ancora stata scritta** in questo repository. Ma cinque dei sei incontri hanno una fonte buona, e **[01 - Dio ha creato il mondo](<Schede/I-II/01 - Dio ha creato il mondo/01 - Dio ha creato il mondo.md>)** è la più curata di tutto l'archivio: è da lì che conviene partire.
+**Il Natale resta la più debole.** In archivio non c'era niente per questo gruppo — il materiale di Natale che esiste, *Allarme nel presepe*, *Natale 2022*, la *scenetta del presepe della tazza rotta*, il *presepe da costruire*, è nato per III-IV o per la parrocchia intera. La scheda [05 - Il Natale](<Schede/I-II/05 - Il Natale/05 - Il Natale.md>) è stata scritta adattando quel materiale, e va guardata con più attenzione delle altre la prima volta che si usa.
 
 **Il formato «genitori e bambini insieme» non si vede nelle schede.** La comunicazione alle famiglie lo promette, la Parte I lo descrive come il carattere proprio del gruppo, ma nessuna delle schede d'archivio prevede un momento in cui i genitori facciano qualcosa. Delle due l'una: o nella pratica i genitori restano a guardare — che è già qualcosa, ma non è quello che abbiamo scritto — oppure le schede sono incomplete. **Va chiarito in équipe prima di scrivere le schede**, perché cambia il modo di scriverle.
 

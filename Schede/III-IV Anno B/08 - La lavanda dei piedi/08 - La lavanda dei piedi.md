@@ -4,9 +4,9 @@
 **Numero:** 08
 **Tempo liturgico:** ordinario, verso la Pasqua
 
-> **Tappa 7 — «Amare non si dice, si fa».** Nell'anno A la stessa tappa sono il comandamento dell'amore e il buon samaritano.
+> **Tappa 9 — «Amare non si dice, si fa»**, anno B. Nell'anno A la stessa tappa sono il comandamento dell'amore e il buon samaritano.
 >
-> **Attenzione alla sovrapposizione.** La lavanda dei piedi esiste già nel percorso di Prima Comunione, come gesto della sera del [Giovedì Santo](<../../Sacramenti/04 - La cena ebraica e la lavanda dei piedi/04 - La cena ebraica e la lavanda dei piedi.md>). Chi fa la terza in un anno B se la ritrova l'anno dopo in quarta. Non è per forza un male — la seconda volta la si *vive* con le famiglie invece di studiarla — ma è una cosa da decidere apposta, ed è al punto 4 delle cose da decidere della [proposta](<../../../Proposte/Due percorsi alternati per III e IV.md>).
+> **La lavanda dei piedi compare due volte, ed è voluto.** Chi fa la terza in un anno B se la ritrova al [Giovedì Santo](<../../Sacramenti/04 - La cena ebraica e la lavanda dei piedi/04 - La cena ebraica e la lavanda dei piedi.md>) di quarta — ma la seconda volta la si *vive* con le famiglie invece di studiarla, e il gesto guadagna dall'essere già noto.
 
 ---
 
@@ -139,4 +139,4 @@ Nella cartella di questo incontro:
 
 ---
 
-*Scheda nuova, scritta per la proposta dell'anno B. Il gesto esiste già in parrocchia, ma solo dentro la sera del Giovedì Santo con le famiglie, riservata alla quarta. Qui diventa un incontro ordinario del sabato, con le mani al posto dei piedi. Il vangelo non era mai stato preparato come foglietto per questo gruppo.*
+*Scheda nuova, scritta per l'anno B del percorso. Il gesto esiste già in parrocchia, ma solo dentro la sera del Giovedì Santo con le famiglie, riservata alla quarta. Qui diventa un incontro ordinario del sabato, con le mani al posto dei piedi. Il vangelo non era mai stato preparato come foglietto per questo gruppo.*

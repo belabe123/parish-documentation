@@ -119,6 +119,7 @@ Chi tocca il CSS tenga presente che questi numeri sono stati verificati sulle pa
 - [x] **Il canale di ritorno** — pulsante di segnalazione su ogni pagina e sezione, modulo precompilato, risposte raccolte su Drive
 - [x] **Ripulitura per la pubblicazione** — nomi dei catechisti tolti, inventario fuori dal repository, cronologia riscritta prima di rendere pubblico
 - [x] **Accessibilità** — comando per la dimensione del testo, contrasti verificati, navigazione da tastiera
+- [x] **I due percorsi alternati di III e IV** — approvati nel 2026, recepiti nel percorso, con tutte le schede dei due anni
 - [x] **Stampa e PDF** — pulsante su ogni pagina, e sulle schede il fascicolo con gli allegati in un documento solo
 
 ### Da fare
@@ -136,7 +137,7 @@ In ordine di utilità, non di fatica.
 
 Non sono cose che si possano risolvere scrivendo: vanno decise da chi fa catechismo.
 
-**Le due classi insieme.** Il problema è documentato nel capitolo 6 di `03 - Percorso III-IV elementare.md`, con le quattro soluzioni che l'archivio contiene. Gli appunti 2024-25 propongono di separare stabilmente almeno la terza dalla quarta, tenendo insieme merenda e gioco. Resta da decidere se diventa la regola o resta un rimedio caso per caso — sapendo che l'équipe è di tre persone, una delle quali viene quando può.
+**Le due classi insieme — deciso nel 2026.** Dal prossimo anno III e IV seguono **due percorsi che si alternano**, così che nella stessa stanza il contenuto sia nuovo per tutti e due. Vedi il capitolo 6 di `03 - Percorso III-IV elementare.md`; come ci si è arrivati è in `Proposte/`. Resta aperto quello che la rotazione non risolve: la differenza di età fra otto e nove anni, per cui valgono ancora le quattro soluzioni del vocabolario.
 
 **I genitori in I e II elementare.** La formula usata è *«potrete a vostra discrezione decidere se restare o lasciare i vostri bambini con noi»*. Nelle schede non c'è scritto da nessuna parte che cosa facciano i genitori che restano. Va deciso se hanno un ruolo o se sono spettatori, e scritto.
 

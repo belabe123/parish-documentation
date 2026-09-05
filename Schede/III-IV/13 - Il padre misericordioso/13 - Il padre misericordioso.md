@@ -4,9 +4,9 @@
 **Numero:** 13
 **Tempo liturgico:** ordinario
 
-> **Tappa 6 — «Non ti giudica, ti perdona».** Nella proposta dei [due percorsi alternati](<../../../Proposte/Due percorsi alternati per III e IV.md>) è l'incontro sul perdono dell'anno A; nell'anno B la stessa tappa è l'adultera *(incontro 10)*.
+> **Tappa 8 — «Non ti giudica, ti perdona»**, anno A. Nell'anno B la stessa tappa è [l'adultera](<../10 - Gesù non ti giudica/10 - Gesù non ti giudica.md>).
 >
-> **Il numero 13 è un numero d'archivio, non una posizione nell'anno.** Questo incontro va collocato dove sta oggi l'incontro 10, cioè fra febbraio e marzo.
+> **Il numero 13 è un numero d'archivio, non una posizione nell'anno.** Nel calendario questo incontro cade fra febbraio e marzo.
 
 ---
 
