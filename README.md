@@ -81,7 +81,16 @@ Su ogni pagina c'è un pulsante **Segnala** che segue la lettura, e accanto a og
 
 Le risposte finiscono nel foglio **«Parish documentation (Responses)»** su Drive, nella cartella `Catechismo`. Da lì si leggono, si decide quali recepire, e si correggono i file.
 
-### Accessibilità
+### Portare le schede su carta
+
+In fondo a ogni pagina c'è **Stampa o salva in PDF**: chiama la stampa del browser, che produce un PDF con il testo selezionabile e senza barra laterale né pulsanti.
+
+Sulle schede degli incontri c'è un secondo pulsante, **Stampa con gli allegati**. Porta a una pagina che mette in fila la scheda e tutti i materiali della sua cartella — il vangelo su foglietto, le domande, le figure — ognuno su un foglio nuovo, e apre da sola la finestra di stampa. È quello che serve per preparare il sabato: un clic invece di quattro pagine da aprire una per una.
+
+Ogni foglio stampato riporta in fondo il nome del sito e l'indirizzo della pagina, così chi lo riceve sa dove trovarne la versione aggiornata.
+
+Non ci sono PDF pronti da scaricare e non c'è nessuna libreria: il PDF lo fa il browser al momento. È il motivo per cui la pubblicazione resta di un minuto.
+
 
 Nella colonna di sinistra c'è un comando **A− / A+** con quattro misure di testo, che resta memorizzato nel browser di chi legge e si somma alla dimensione già impostata nel telefono. I contrasti sono stati misurati e rispettano il minimo delle linee guida WCAG AA (4,5:1 per il testo, 3:1 per i bordi dei controlli). C'è un link «Salta al contenuto» per chi naviga da tastiera, e il sito rispetta le preferenze di sistema per il contrasto alto e per le animazioni ridotte.
 
@@ -110,6 +119,7 @@ Chi tocca il CSS tenga presente che questi numeri sono stati verificati sulle pa
 - [x] **Il canale di ritorno** — pulsante di segnalazione su ogni pagina e sezione, modulo precompilato, risposte raccolte su Drive
 - [x] **Ripulitura per la pubblicazione** — nomi dei catechisti tolti, inventario fuori dal repository, cronologia riscritta prima di rendere pubblico
 - [x] **Accessibilità** — comando per la dimensione del testo, contrasti verificati, navigazione da tastiera
+- [x] **Stampa e PDF** — pulsante su ogni pagina, e sulle schede il fascicolo con gli allegati in un documento solo
 
 ### Da fare
 
@@ -118,7 +128,6 @@ In ordine di utilità, non di fatica.
 - [ ] **Recepire le segnalazioni dei catechisti** — il messaggio è partito il 21 agosto 2026. Le risposte arrivano nel foglio su Drive; vanno lette, discusse dove serve, e riportate nei file.
 - [ ] **Scrivere i gesti del Padre Nostro** — vedi `Comuni/Preghiere/Padre Nostro con i gesti.md`, che è vuoto apposta. Serve mezz'ora e qualcuno che li faccia mentre si scrive. Un video col telefono vale più di dieci descrizioni.
 - [ ] **Raccolta e riordino degli allegati** — molte schede rimandano a documenti che su Drive esistono ma qui non ci sono ancora.
-- [ ] **Esportazione delle schede in PDF** — è nell'obiettivo iniziale del lavoro: ogni scheda deve poter diventare un documento da stampare o mandare via mail.
 - [ ] **Il libretto dei canti** — non esiste in questo archivio e forse nemmeno su Drive. I cartelloni del ritiro si rifanno ogni anno da capo. Se qualcuno ha i testi già impaginati, conviene raccoglierli una volta sola.
 
 ---

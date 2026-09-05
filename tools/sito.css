@@ -287,6 +287,46 @@ h2:hover .anch, .anch:focus-visible{opacity:1}
   box-shadow:0 .15rem .6rem rgba(22,19,15,.12); color:var(--ink);
 }
 
+/* azioni di stampa in fondo alla pagina */
+#foot .anche{margin:1.4rem 0 .5rem; color:var(--ink3); font-size:.95rem}
+.azioni-stampa{display:flex; gap:.6rem; flex-wrap:wrap}
+.azioni-stampa button, .azioni-stampa .bottone{
+  font:600 .95rem/1 inherit; color:var(--ink); background:#fff;
+  border:1px solid var(--line-ui); border-radius:.5rem;
+  padding:.7rem 1rem; min-height:2.75rem; cursor:pointer;
+  text-decoration:none; display:inline-flex; align-items:center; gap:.35rem;
+}
+.azioni-stampa button:hover, .azioni-stampa .bottone:hover{
+  background:var(--acc-soft); border-color:var(--acc); color:var(--acc-scuro);
+}
+.azioni-stampa .bottone span{color:var(--ink3); font-weight:400}
+
+/* la riga che compare solo sulla carta */
+.pie-stampa{display:none}
+
+/* ------------------------------------------------------------------ */
+/* il fascicolo: scheda e allegati in un documento solo                */
+/* ------------------------------------------------------------------ */
+
+body.fascicolo{background:#fff}
+.barra-stampa{
+  display:flex; gap:1rem; align-items:center; justify-content:space-between;
+  flex-wrap:wrap; padding:.9rem 1.25rem; background:var(--panel);
+  border-bottom:1px solid var(--line); font-size:.95rem;
+}
+.barra-stampa .acts{display:flex; gap:.6rem; flex-wrap:wrap; margin:0}
+.barra-stampa button, .barra-stampa .bottone{
+  font:600 .95rem/1 inherit; padding:.7rem 1rem; min-height:2.75rem;
+  border-radius:.5rem; cursor:pointer; text-decoration:none;
+  display:inline-flex; align-items:center;
+}
+.barra-stampa button{background:var(--acc); color:#fff; border:1px solid var(--acc)}
+.barra-stampa button:hover{background:var(--acc-scuro)}
+.barra-stampa .bottone{background:#fff; color:var(--ink); border:1px solid var(--line-ui)}
+.foglio{max-width:44rem; margin:0 auto; padding:2rem 1.5rem 5rem}
+.pezzo h1{font-size:1.75rem; margin:0 0 1.25rem}
+.pezzo + .pezzo{margin-top:3rem; padding-top:2rem; border-top:2px solid var(--line)}
+
 /* ------------------------------------------------------------------ */
 /* schermi stretti                                                     */
 /* ------------------------------------------------------------------ */
@@ -343,7 +383,22 @@ h2:hover .anch, .anch:focus-visible{opacity:1}
 }
 
 @media print{
-  #side,#fab,#bub,#burger,#foot,.seg,.anch,#salta,#testo-cmd{display:none !important}
+  #side,#fab,#bub,#burger,#foot,.seg,.anch,#salta,#testo-cmd,
+  #chiudi-menu,.barra-stampa{display:none !important}
+
+  /* ogni allegato comincia su un foglio nuovo */
+  .pezzo.salto{break-before:page; page-break-before:always; margin:0; padding:0; border:0}
+  .foglio{max-width:none; padding:0}
+
+  /* un foglio che gira di mano in mano deve dire da dove viene */
+  .pie-stampa{
+    display:block; margin-top:1.5rem; padding-top:.5rem;
+    border-top:1px solid #999; font-size:8pt; color:#444;
+  }
+
+  /* non spezzare a metà un titolo o una riga di tabella */
+  h1,h2,h3,h4{break-after:avoid; page-break-after:avoid}
+  tr,li,blockquote{break-inside:avoid; page-break-inside:avoid}
   #main{padding:0}
   body{font-size:11pt; background:#fff}
   a{color:#000; text-decoration:underline}

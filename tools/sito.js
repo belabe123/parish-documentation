@@ -297,6 +297,7 @@
     el('q').addEventListener('input', function (e) { cerca(e.target.value); });
     el('burger').onclick = function (e) { e.stopPropagation(); menu(); };
     el('chiudi-menu').onclick = function () { menu(false); el('burger').focus(); };
+    if (el('stampa')) el('stampa').onclick = function () { window.print(); };
 
     /* Chiudere il menu deve essere facile quanto aprirlo: si chiude
        toccando una voce, toccando fuori, con Esc, e allargando la finestra.

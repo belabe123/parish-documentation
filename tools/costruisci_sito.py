@@ -31,6 +31,9 @@ import urllib.parse
 # --------------------------------------------------------------------------
 
 TITOLO_SITO = "Catechismo a Promano"
+# Serve solo al piè di pagina che compare quando si stampa: un foglio che gira
+# di mano in mano deve dire da dove viene.
+SITO_PUBBLICO = "https://belabe123.github.io"
 SOTTOTITOLO = "Parrocchia di Promano"
 
 # Il modulo Google dove finiscono le segnalazioni.
@@ -313,7 +316,12 @@ def scrivi_pagina(pagina, pagine, css, js):
       <div id="foot">
         <p>Hai notato qualcosa che non torna in questa pagina?</p>
         <button onclick="openSeg('','')">Segnala qualcosa</button>
+        <p class="anche">Ti serve su carta?</p>
+        <div class="azioni-stampa">
+          <button type="button" id="stampa">Stampa o salva in PDF</button>{fascicolo}
+        </div>
       </div>
+      <div class="pie-stampa">{sito} · {indirizzo}</div>
     </article>
     <div id="res"></div>
   </div></main>
@@ -325,7 +333,14 @@ def scrivi_pagina(pagina, pagine, css, js):
 <script>{js}</script>
 </body></html>"""
 
+    fascicolo = ""
+    if pagina.get("allegati"):
+        fascicolo = ('<a class="bottone" href="%s">Stampa con gli allegati <span>(%d)</span></a>'
+                     % (link(pagina["url"] + "stampa/"), len(pagina["allegati"])))
+
     return modello.format(
+        fascicolo=fascicolo,
+        indirizzo=html.escape(SITO_PUBBLICO + link(pagina["url"])),
         home=link(""),
         base_js=json.dumps(BASE),
         titolo=html.escape(pagina["titolo"]),
@@ -391,6 +406,60 @@ Ci sono due modi, e nessuno dei due chiede di registrarsi:
 MODALE = ""   # la finestra la costruisce sito.js, solo quando serve
 
 
+def scrivi_fascicolo(scheda, css):
+    """La scheda e tutti i suoi allegati in un documento solo, da stampare.
+
+    Chi prepara un incontro non vuole la scheda: vuole la scheda **più** il
+    vangelo su foglietto e i materiali. Sul sito sono pagine separate, e
+    stamparle vorrebbe dire aprirne quattro. Questa pagina le mette in fila,
+    con l'interruzione di pagina fra un pezzo e l'altro, e apre da sola la
+    finestra di stampa.
+    """
+    pezzi = ['<article class="pezzo"><h1>%s</h1>%s</article>'
+             % (html.escape(scheda["titolo"]), scheda["html"])]
+    for a in scheda["allegati"]:
+        pezzi.append('<article class="pezzo salto"><h1>%s</h1>%s</article>'
+                     % (html.escape(a["titolo"]), a["html"]))
+
+    elenco = " · ".join(html.escape(a["titolo"]) for a in scheda["allegati"])
+
+    return """<!doctype html>
+<html lang="it"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{titolo} — da stampare · {sito}</title>
+<meta name="robots" content="noindex">
+<style>{css}</style>
+</head><body class="fascicolo">
+<div class="barra-stampa">
+  <div>
+    <b>{titolo}</b> e i suoi allegati: {elenco}
+  </div>
+  <div class="acts">
+    <button type="button" onclick="window.print()">Stampa</button>
+    <a class="bottone" href="{ritorno}">Torna alla scheda</a>
+  </div>
+</div>
+<main class="foglio">
+{pezzi}
+<div class="pie-stampa">{sito} · {indirizzo}</div>
+</main>
+<script>
+  // si arriva qui dal pulsante «Stampa con gli allegati»: la finestra di
+  // stampa si apre da sola, ma la barra in alto resta per rifarlo
+  window.addEventListener('load', function () {{ setTimeout(function () {{ window.print(); }}, 300); }});
+</script>
+</body></html>""".format(
+        titolo=html.escape(scheda["titolo"]),
+        sito=html.escape(TITOLO_SITO),
+        css=css,
+        elenco=elenco,
+        ritorno=link(scheda["url"]),
+        indirizzo=html.escape(SITO_PUBBLICO + link(scheda["url"])),
+        pezzi="\n".join(pezzi),
+    )
+
+
 # --------------------------------------------------------------------------
 # COSTRUZIONE
 # --------------------------------------------------------------------------
@@ -404,6 +473,16 @@ def main():
     tutte = [home] + pagine
 
     per_url = {p["file"]: p["url"] for p in pagine}
+
+    # ogni scheda si porta dietro gli allegati della sua cartella
+    per_cartella = {}
+    for p in pagine:
+        if p["allegato"]:
+            per_cartella.setdefault(os.path.dirname(p["file"]), []).append(p)
+    for p in pagine:
+        if not p["allegato"] and p["file"].startswith("Schede/"):
+            p["allegati"] = sorted(per_cartella.get(os.path.dirname(p["file"]), []),
+                                   key=lambda a: a["file"])
 
     indice = []
     for p in tutte:
@@ -419,6 +498,15 @@ def main():
         os.makedirs(cartella, exist_ok=True)
         with open(os.path.join(cartella, "index.html"), "w", encoding="utf-8") as f:
             f.write(scrivi_pagina(p, pagine, css, js))
+
+    fascicoli = 0
+    for p in pagine:
+        if p.get("allegati"):
+            cartella = os.path.join(USCITA, p["url"], "stampa")
+            os.makedirs(cartella, exist_ok=True)
+            with open(os.path.join(cartella, "index.html"), "w", encoding="utf-8") as f:
+                f.write(scrivi_fascicolo(p, css))
+            fascicoli += 1
 
     with open(os.path.join(USCITA, "ricerca.json"), "w", encoding="utf-8") as f:
         json.dump(indice, f, ensure_ascii=False)
@@ -437,6 +525,7 @@ def main():
                for r, _, fs in os.walk(USCITA) for n in fs)
     print("prefisso indirizzi: %s" % (BASE or "(radice)"))
     print("pagine costruite: %d" % len(tutte))
+    print("fascicoli da stampare: %d" % fascicoli)
     print("indice di ricerca: %d KB" % (os.path.getsize(os.path.join(USCITA, "ricerca.json")) // 1024))
     print("sito completo:     %d KB" % (peso // 1024))
     if not MODULO_URL:
