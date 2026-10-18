@@ -98,7 +98,6 @@ La preghiera finale è quasi sempre a formula aperta: si dà l'inizio della fras
 
 Sulla domanda del Vangelo — chi lasciamo più indietro — queste sono le nostre risposte oneste.
 
-- **I bambini che non ricevono il sacramento quell'anno.** A metà aprile il percorso ordinario chiude e proseguono solo i gruppi della Prima Comunione e della Cresima. Per tutti gli altri l'anno è finito: è il punto in cui il nostro calendario dice che il traguardo è la cerimonia.
 - **Le famiglie che si avvicinano solo per il sacramento.** Le incontriamo, ma le incontriamo in quanto genitori di chi fa la Comunione, in una fase in cui siamo tutti presi dall'organizzazione.
 - **Chi non ha un adulto che possa portarlo il sabato pomeriggio.** Il formato «genitori e bambini insieme» dei più piccoli è una cosa buona, ma chiede un genitore disponibile. Chi non ce l'ha è di fatto meno dentro.
 - **Chi smette di venire e nessuno richiama.** Teniamo il registro proprio per accorgercene, ma accorgersene e telefonare sono due cose diverse.
