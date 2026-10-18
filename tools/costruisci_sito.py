@@ -85,6 +85,10 @@ TITOLI_MENU = {
 ESCLUSI = {
     "00 - Indice.md",        # la barra laterale fa già da indice
     "_Inventario Drive.md",  # documento di lavoro interno
+    # Bozza di lavoro per il ritiro, con i riquadri da completare: sul sito
+    # va soltanto la versione finale, in «Diocesi/». Questa riga si toglie
+    # il giorno in cui si volesse pubblicare anche il percorso di lavoro.
+    "Proposte/Confronto diocesano 2026 — bozza di risposta.md",
 }
 CARTELLE_ESCLUSE = {".git", ".github", "_site", "tools", "node_modules"}
 
@@ -93,6 +97,7 @@ CARTELLE_ESCLUSE = {".git", ".github", "_site", "tools", "node_modules"}
 GRUPPI = [
     ("Il manuale",                      lambda p: p.startswith("01 - ")),
     ("I percorsi",                      lambda p: re.match(r"0[2-6] - ", p) is not None),
+    ("Il confronto diocesano",          lambda p: p.startswith("Diocesi/")),
     ("Come ci siamo arrivati",          lambda p: p.startswith("Proposte/")),
     ("I ritiri",                        lambda p: p.startswith("Ritiri/")),
     ("Schede · I e II elementare",      lambda p: p.startswith("Schede/I-II/")),
