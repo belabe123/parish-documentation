@@ -123,18 +123,17 @@ Sì, a condizione di continuare a potare. Il nostro contributo al confronto dioc
 
 È la domanda su cui abbiamo meno risposte e che ci interroga di più.
 
-Quello che facciamo oggi — la riunione di inizio anno, la scatola del tempo, i compiti affidati, i momenti vissuti insieme ai figli — raggiunge gli adulti **in quanto genitori** e **in funzione dei figli**, e si ferma quando il catechismo dei figli finisce. Nessuna proposta li incontra come adulti che hanno una loro domanda.
+Quello che facciamo oggi con gli adulti è la riunione di inizio anno, la scatola del tempo, i compiti affidati, i momenti vissuti insieme ai figli: raggiunge gli adulti **in quanto genitori** e **in funzione dei figli**, e si ferma quando il catechismo dei figli finisce. Nessuna proposta li incontra come adulti che hanno una loro domanda.
 
-È il ritratto dell'eunuco sul carro: persone che hanno in mano le Scritture, un'eredità di fede ricevuta da bambini — magari proprio al nostro catechismo — e che non hanno più avuto nessuno accanto per rileggerla da adulti. Filippo non aspetta che l'eunuco bussi: corre verso il carro, e la sua domanda non è un esame, è una domanda fatta a partire da dove l'altro già si trova.
+Alcune riflessioni:
 
-Tradotto per noi: non ci serve un programma per adulti pensato a tavolino, ci serve accostarci dove gli adulti già sono. E dove già sono, cinque o sei volte l'anno, è la nostra parrocchia il sabato pomeriggio.
+ci serve accostarci dove gli adulti già sono. E dove già sono è la nostra parrocchia il sabato pomeriggio. Da qui qualche proposta.
 
-Da qui qualche proposta.
+1. **Un ruolo dichiarato ai genitori dei più piccoli**: non spettatori, ma co-conduttori di un'attività, di un racconto, di un gioco.
+2. **Un incontro con i padrini prima della Cresima.**
+3. Incontri genitori-figli con momenti dedicati ai genitori e momenti da vivere insieme ai figli
 
-1. **Un ruolo dichiarato ai genitori dei più piccoli**: non spettatori, ma co-conduttori di un'attività, di un racconto, di un gioco. In quel gruppo i genitori ci sono già tutti.
-2. **Un incontro con i padrini prima della Cresima.** Una sera sola, e sarebbe la prima volta.
-3. **Gli adulti che già invitiamo come testimoni** nel gruppo dei più grandi: chi accetta di raccontare la propria fede a dei dodicenni è qualcuno con cui vale la pena fare un tratto di strada.
-4. Un cammino continuativo e dedicato per adulti, che una parrocchia sola non regge: è quello che chiediamo di costruire insieme alle parrocchie vicine.
+Oltre a questo stiamo immaginando un cammino dedicato per adulti da costruire insieme alle parrocchie vicine.
 
 Mettiamo a disposizione di chiunque la documentazione del nostro catechismo, su [belabe123.github.io/parish-documentation](https://belabe123.github.io/parish-documentation/): è pubblica, si legge dal telefono, si stampa, e si può prendere e adattare.
 
